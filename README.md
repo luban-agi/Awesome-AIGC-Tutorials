@@ -28,8 +28,8 @@
 - [CS25: Transformers United V2 - Stanford](https://web.stanford.edu/class/cs25/)
 
 ## 💻 AI System
-- [Deep Learning Systems - Algorithms and Implementation](https://dlsyscourse.org/)
 - [AI-Sys-Sp22 Machine Learning Systems - UCB](https://ucbrise.github.io/cs294-ai-sys-sp22/)
+- [Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter](https://dlsyscourse.org/)
 - [CS 329S: Machine Learning Systems Design - Stanford](https://stanford-cs329s.github.io/)
 - [15-849: Machine Learning Systems - CMU](https://www.cs.cmu.edu/~zhihaoj2/15-849/)
 - [Computer Science 598D - Systems and Machine Learning - Princeton](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html)

@@ -14,14 +14,16 @@
 
 ## 💬 Large Language Models
 - [CS324 - Large Language Models - Stanford University](https://stanford-cs324.github.io/winter2022/)
-- [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2023/index.html)
-- [CS224N: Natural Language Processing with Deep Learning - Stanford University](https://web.stanford.edu/class/cs224n/) ![](https://img.shields.io/badge/video-blue)
+- [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-Medium-yellow)
+- [CS224N: Natural Language Processing with Deep Learning - Stanford University](https://web.stanford.edu/class/cs224n/) ![](https://img.shields.io/badge/video-blue)![](https://img.shields.io/badge/Level-Medium-yellow
+)
 - [COS 597G (Fall 2022): Understanding Large Language Models - Princeton University](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/video-blue)
 
 ## 🎨 AI Painting
 - [Lecture Series - Niji Academy](https://www.niji.academy/work/lecture)
-- [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/video-blue)
+- [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/video-blue)![](https://img.shields.io/badge/Level-Medium-yellow
+)
 
 ## 🧠 Deep Learning
 - [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/video-blue)

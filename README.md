@@ -3,6 +3,9 @@
 
 ## 📜Content
 - [Introduction](#-introduction)
+  - [Prompt Engineering](#-prompt-engineering)
+  - [Applications of LLMs](#-applications-of-llms)
+  - [Theory of LLMs](#-theory-of-llms)
 - [Large Language Models](#-large-language-models)
 - [AI Painting](#-ai-painting)
 - [Deep Learning](#-deep-learning)
@@ -13,16 +16,16 @@
 - [Artificial Intelligence for Beginners - Microsoft](https://microsoft.github.io/AI-For-Beginners/) ![](https://img.shields.io/badge/Level-Medium-yellow)
 
 ## 💬 Large Language Models
-### Prompt Engineering
+### 💡 Prompt Engineering
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
 - [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
 - [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
 - [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
 
-### Applications of LLMs
+### 📱 Applications of LLMs
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/video-blue)
 
-### Algorithmic Theory of LLMs
+### 🔬 Theory of LLMs
 - [CS324 - Large Language Models - Stanford University](https://stanford-cs324.github.io/winter2022/) ![](https://img.shields.io/badge/Level-Easy-green)
 - [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-Medium-yellow)
 - [CS224N: Natural Language Processing with Deep Learning - Stanford University](https://web.stanford.edu/class/cs224n/)  ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/video-blue)

@@ -29,3 +29,4 @@
 - [AI-Sys-Sp22 Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-sp22/)
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/)
 - [15-849: Machine Learning Systems](https://www.cs.cmu.edu/~zhihaoj2/15-849/)
+- [Computer Science 598D - Systems and Machine Learning](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html)

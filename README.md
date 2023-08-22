@@ -25,7 +25,7 @@
 ## 🧠 Deep Learning
 - [StatQuest - Neural Networks/Deep Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 - [Andrej Karpathy - Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
-- 
+- [Stanford - CS25: Transformers United V2](https://web.stanford.edu/class/cs25/)
 
 ## 💻 AI System
 - [Deep Learning Systems - Algorithms and Implementation](https://dlsyscourse.org/)

@@ -15,15 +15,13 @@
 ## 💬 Large Language Models
 - [CS324 - Large Language Models - Stanford University](https://stanford-cs324.github.io/winter2022/) ![](https://img.shields.io/badge/Level-Easy-green)
 - [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-Medium-yellow)
-- [CS224N: Natural Language Processing with Deep Learning - Stanford University](https://web.stanford.edu/class/cs224n/) ![](https://img.shields.io/badge/video-blue) ![](https://img.shields.io/badge/Level-Medium-yellow
-)
+- [CS224N: Natural Language Processing with Deep Learning - Stanford University](https://web.stanford.edu/class/cs224n/)  ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/video-blue)
 - [COS 597G (Fall 2022): Understanding Large Language Models - Princeton University](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/video-blue)
 
 ## 🎨 AI Painting
 - [Lecture Series - Niji Academy](https://www.niji.academy/work/lecture) ![](https://img.shields.io/badge/Level-Easy-green)
-- [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/video-blue) ![](https://img.shields.io/badge/Level-Medium-yellow
-)
+- [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/video-blue)
 
 ## 🧠 Deep Learning
 - [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/video-blue)
@@ -32,7 +30,7 @@
 
 ## 💻 AI System
 - [AI-Sys-Sp22 Machine Learning Systems - University of California, Berkeley](https://ucbrise.github.io/cs294-ai-sys-sp22/) ![](https://img.shields.io/badge/Level-Medium-yellow)
-- [Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter](https://dlsyscourse.org/) ![](https://img.shields.io/badge/video-blue) ![](https://img.shields.io/badge/Level-Medium-yellow)
+- [Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter](https://dlsyscourse.org/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/video-blue) 
 - [CS 329S: Machine Learning Systems Design - Stanford University](https://stanford-cs329s.github.io/) ![](https://img.shields.io/badge/Level-Medium-yellow)
 - [15-849: Machine Learning Systems - Carnegie Mellon University](https://www.cs.cmu.edu/~zhihaoj2/15-849/) ![](https://img.shields.io/badge/Level-Hard-red
 )

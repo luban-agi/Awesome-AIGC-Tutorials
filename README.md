@@ -11,7 +11,7 @@
 
 ## 👋 Introduction
 - [Artificial Intelligence for Beginners - Microsoft](https://microsoft.github.io/AI-For-Beginners/)
-- [AI for Everyone - Andrew Ng](https://www.deeplearning.ai/courses/ai-for-everyone/)
+- [AI for Everyone - Andrew Ng](https://www.deeplearning.ai/courses/ai-for-everyone/)(https://img.shields.io/badge/video-green)
 
 ## 💬 Large Language Models
 - [CS324 - Large Language Models - Stanford](https://stanford-cs324.github.io/winter2022/)

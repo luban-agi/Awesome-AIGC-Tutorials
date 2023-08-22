@@ -22,17 +22,19 @@
 
 ## 🎨 AI Painting
 - [Lecture Series - Niji Academy](https://www.niji.academy/work/lecture)
-- [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/video-blue)![](https://img.shields.io/badge/Level-Medium-yellow
+- [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/video-blue) ![](https://img.shields.io/badge/Level-Medium-yellow
 )
 
 ## 🧠 Deep Learning
 - [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/video-blue)
-- [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) ![](https://img.shields.io/badge/video-blue)
-- [CS25: Transformers United V2 - Stanford University](https://web.stanford.edu/class/cs25/) ![](https://img.shields.io/badge/video-blue)
+- [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) ![](https://img.shields.io/badge/video-blue) ![](https://img.shields.io/badge/Level-Medium-yellow)
+- [CS25: Transformers United V2 - Stanford University](https://web.stanford.edu/class/cs25/) ![](https://img.shields.io/badge/video-blue) ![](https://img.shields.io/badge/Level-Medium-yellow)
 
 ## 💻 AI System
-- [AI-Sys-Sp22 Machine Learning Systems - University of California, Berkeley](https://ucbrise.github.io/cs294-ai-sys-sp22/)
-- [Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter](https://dlsyscourse.org/) ![](https://img.shields.io/badge/video-blue)
-- [CS 329S: Machine Learning Systems Design - Stanford University](https://stanford-cs329s.github.io/)
-- [15-849: Machine Learning Systems - Carnegie Mellon University](https://www.cs.cmu.edu/~zhihaoj2/15-849/)
-- [Computer Science 598D - Systems and Machine Learning - Princeton University](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html)
+- [AI-Sys-Sp22 Machine Learning Systems - University of California, Berkeley](https://ucbrise.github.io/cs294-ai-sys-sp22/) ![](https://img.shields.io/badge/Level-Medium-yellow)
+- [Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter](https://dlsyscourse.org/) ![](https://img.shields.io/badge/video-blue) ![](https://img.shields.io/badge/Level-Medium-yellow)
+- [CS 329S: Machine Learning Systems Design - Stanford University](https://stanford-cs329s.github.io/) ![](https://img.shields.io/badge/Level-Medium-yellow)
+- [15-849: Machine Learning Systems - Carnegie Mellon University](https://www.cs.cmu.edu/~zhihaoj2/15-849/) ![](https://img.shields.io/badge/Level-Hard-red
+)
+- [Computer Science 598D - Systems and Machine Learning - Princeton University](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html) ![](https://img.shields.io/badge/Level-Hard-red
+)

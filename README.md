@@ -38,19 +38,23 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 ### 📱 Applications of LLMs
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
-  - Delve deep into prompt engineering, LLM operations, user experience design for language interfaces, augmented language model techniques, foundational LLM insights, hands-on projects, and the future of LLMs, complemented by expert talks from industry leaders on training and agent design." 
+  - Delve deep into prompt engineering, LLM operations, user experience design for language interfaces, augmented language model techniques, foundational LLM insights, hands-on projects, and the future of LLMs, complemented by expert talks from industry leaders on training and agent design. 
 
 ### 🔬 Theory of LLMs
 - [CS324 - Large Language Models - Stanford University](https://stanford-cs324.github.io/winter2022/) ![](https://img.shields.io/badge/Level-Easy-green)
+  - Explore the transformative impact of large language models in NLP, delving into their modeling, theoretical, ethical, and systems dimensions, while gaining practical experience in their applications.
 - [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-Medium-yellow)
+- This course offers an in-depth exploration of self-supervised learning techniques for NLP, training students to design and implement neural network models using PyTorch, with a focus on various language model architectures.
 - [CS224N: Natural Language Processing with Deep Learning - Stanford University](https://web.stanford.edu/class/cs224n/)  ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
-- [COS 597G (Fall 2022): Understanding Large Language Models - Princeton University](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) ![](https://img.shields.io/badge/Level-Hard-red
-)
+  - This course provides a comprehensive insight into Deep Learning for NLP using PyTorch, emphasizing end-to-end neural models, eliminating the need for task-specific feature engineering, and equipping students with the skills to craft their own neural network solutions.  
+- [COS 597G (Fall 2022): Understanding Large Language Models - Princeton University](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) ![](https://img.shields.io/badge/Level-Hard-red)
+  - An advanced exploration into the transformative realm of LLMs, discussing state-of-the-art models, their profound capabilities, and associated challenges, with an emphasis on in-depth research, ethical considerations, and hands-on project experience, tailored for seasoned students versed in machine learning and deep NLP frameworks.
 
 ## 🎨 AI Painting
 - [Lecture Series - Niji Academy](https://www.niji.academy/work/lecture) ![](https://img.shields.io/badge/Level-Easy-green)
   - Niji Academy blends art fundamentals with AI, elevating painting skills and speeding up art learning.
 - [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+  - Master generative AI in 'How Diffusion Models Work', an intermediate course by Sharon Zhou, where you'll craft diffusion models from scratch, enriched with hands-on coding and labs, ideal for those proficient in Python, Tensorflow, or Pytorch. 
 
 ## 🧠 Deep Learning
 - [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)

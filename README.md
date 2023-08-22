@@ -17,10 +17,10 @@
 
 ## 💬 Large Language Models
 ### 💡 Prompt Engineering
-- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
-- [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
-- [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
-- [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
+- [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
+- [Building Systems with the ChatGPT API - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
+- [LangChain for LLM Application Development - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
+- [LangChain: Chat with Your Data - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
 
 ### 📱 Applications of LLMs
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/video-blue)

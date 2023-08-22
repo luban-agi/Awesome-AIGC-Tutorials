@@ -26,7 +26,7 @@
 ## 🧠 Deep Learning
 - [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
 - [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/video-blue) 
-- [CS25: Transformers United V2 - Stanford University](https://web.stanford.edu/class/cs25/) ![](https://img.shields.io/badge/video-blue) ![](https://img.shields.io/badge/Level-Medium-yellow)
+- [CS25: Transformers United V2 - Stanford University](https://web.stanford.edu/class/cs25/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/video-blue)
 
 ## 💻 AI System
 - [AI-Sys-Sp22 Machine Learning Systems - University of California, Berkeley](https://ucbrise.github.io/cs294-ai-sys-sp22/) ![](https://img.shields.io/badge/Level-Medium-yellow)

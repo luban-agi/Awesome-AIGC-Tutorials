@@ -23,7 +23,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [LangChain for LLM Application Development - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
 - [LangChain: Chat with Your Data - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
 - [Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_prompt-engineering_vanderbilt_FTCOF_learn_country-GB-country-UK&campaignid=20462816306&adgroupid=157715342052&device=c&keyword=prompt%20engineering%20coursera&matchtype=b&network=g&devicemodel=&adposition=&creativeid=670151312123&hide_mobile_promo&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVg8RCaUF0lwFyVnMuP7T7bHoH0jST0XXhQ3S1vmDxtZc8O1WlJ8FXQaAtG-EALw_wcB) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
-- - [Learn Prompting](https://learnprompting.org/) ![](https://img.shields.io/badge/Level-Medium-yellow)
+- [Learn Prompting](https://learnprompting.org/) ![](https://img.shields.io/badge/Level-Medium-yellow)
 
 ### 📱 Applications of LLMs
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)

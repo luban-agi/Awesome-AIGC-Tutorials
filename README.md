@@ -9,5 +9,6 @@
 - [Deep Learning](#deep-learning)
 
 ## 👋 Introduction
-- [Artificial Intelligence for Beginners(https://microsoft.github.io/AI-For-Beginners/)]
-- [AI for Everyone(https://www.deeplearning.ai/courses/ai-for-everyone/)]
+- [Artificial Intelligence for Beginners](https://microsoft.github.io/AI-For-Beginners/)
+- [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
+

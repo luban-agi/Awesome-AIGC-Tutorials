@@ -42,7 +42,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 ## 🧠 Deep Learning
 - [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
 - [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
-- [Practical Deep Learning for Coders](https://course.fast.ai/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+- [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
 - [Deep Learning Specialization - Andrew Ng](https://www.deeplearning.ai/courses/deep-learning-specialization/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
 - [CS25: Transformers United V2 - Stanford University](https://web.stanford.edu/class/cs25/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
 

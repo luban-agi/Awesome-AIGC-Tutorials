@@ -37,9 +37,8 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 )
 
 ## 🎨 AI Painting
-- [Lecture Series - Niji Academy](https://www.niji.academy/work/lecture)
+- [Lecture Series - Niji Academy](https://www.niji.academy/work/lecture) ![](https://img.shields.io/badge/Level-Easy-green)
   - Niji Academy blends art fundamentals with AI, elevating painting skills and speeding up art learning.
-  ![](https://img.shields.io/badge/Level-Easy-green)
 - [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
 
 ## 🧠 Deep Learning
@@ -56,7 +55,3 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [15-849: Machine Learning Systems - Carnegie Mellon University](https://www.cs.cmu.edu/~zhihaoj2/15-849/) ![](https://img.shields.io/badge/Level-Hard-red
 )
 - [Computer Science 598D - Systems and Machine Learning - Princeton University](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html) ![](https://img.shields.io/badge/Level-Hard-red)
-- [Practical AI for Teachers and Students - Wharton School](https://www.youtube.com/playlist?list=PLwRdpYzPkkn302_rL5RrXvQE8j0jLP02j) 
-  - **简介**: 为教师和学生设计的实用AI课程，由沃顿商学院提供。
-  ![](https://img.shields.io/badge/Level-Easy-green) 
-  ![](https://img.shields.io/badge/Video-blue)

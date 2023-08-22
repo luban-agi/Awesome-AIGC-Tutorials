@@ -37,8 +37,9 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 )
 
 ## 🎨 AI Painting
-- [Lecture Series - Niji Academy](https://www.niji.academy/work/lecture) ![](https://img.shields.io/badge/Level-Easy-green)
-  Niji Academy blends art fundamentals with AI, elevating painting skills and speeding up art learning.
+- [Lecture Series - Niji Academy](https://www.niji.academy/work/lecture)
+  - Niji Academy blends art fundamentals with AI, elevating painting skills and speeding up art learning.
+  ![](https://img.shields.io/badge/Level-Easy-green)
 - [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
 
 ## 🧠 Deep Learning

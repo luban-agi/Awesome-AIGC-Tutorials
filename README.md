@@ -13,7 +13,9 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 ## 👋 Introduction
 - [AI for Everyone - Andrew Ng](https://www.deeplearning.ai/courses/ai-for-everyone/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
+  - "AI for Everyone" is a beginner's guide to understanding AI's practical applications, its limitations, and its societal impact, ideal for business professionals and leaders alike.
 - [Practical AI for Teachers and Students - Wharton School](https://www.youtube.com/playlist?list=PLwRdpYzPkkn302_rL5RrXvQE8j0jLP02j) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
+  - Wharton Interactive's crash course delves into the mechanics and impacts of LLMs, spotlighting models like OpenAI's ChatGPT4, Microsoft's Bing in Creative Mode, and Google's Bard. 
 - [Artificial Intelligence for Beginners - Microsoft](https://microsoft.github.io/AI-For-Beginners/) ![](https://img.shields.io/badge/Level-Medium-yellow)
 - [Generative AI learning path - Google Cloud](https://www.cloudskillsboost.google/journeys/118) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
 

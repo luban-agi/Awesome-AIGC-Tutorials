@@ -44,7 +44,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [CS324 - Large Language Models - Stanford University](https://stanford-cs324.github.io/winter2022/) ![](https://img.shields.io/badge/Level-Easy-green)
   - Explore the transformative impact of large language models in NLP, delving into their modeling, theoretical, ethical, and systems dimensions, while gaining practical experience in their applications.
 - [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-Medium-yellow)
-- This course offers an in-depth exploration of self-supervised learning techniques for NLP, training students to design and implement neural network models using PyTorch, with a focus on various language model architectures.
+  - This course offers an in-depth exploration of self-supervised learning techniques for NLP, training students to design and implement neural network models using PyTorch, with a focus on various language model architectures.
 - [CS224N: Natural Language Processing with Deep Learning - Stanford University](https://web.stanford.edu/class/cs224n/)  ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
   - This course provides a comprehensive insight into Deep Learning for NLP using PyTorch, emphasizing end-to-end neural models, eliminating the need for task-specific feature engineering, and equipping students with the skills to craft their own neural network solutions.  
 - [COS 597G (Fall 2022): Understanding Large Language Models - Princeton University](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) ![](https://img.shields.io/badge/Level-Hard-red)

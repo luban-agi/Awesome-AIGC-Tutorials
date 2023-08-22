@@ -13,7 +13,7 @@
 - [Artificial Intelligence for Beginners - Microsoft](https://microsoft.github.io/AI-For-Beginners/) ![](https://img.shields.io/badge/Level-Medium-yellow)
 
 ## 💬 Large Language Models
-- [CS324 - Large Language Models - Stanford University](https://stanford-cs324.github.io/winter2022/)
+- [CS324 - Large Language Models - Stanford University](https://stanford-cs324.github.io/winter2022/) ![](https://img.shields.io/badge/Level-Easy-green)
 - [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-Medium-yellow)
 - [CS224N: Natural Language Processing with Deep Learning - Stanford University](https://web.stanford.edu/class/cs224n/) ![](https://img.shields.io/badge/video-blue) ![](https://img.shields.io/badge/Level-Medium-yellow
 )
@@ -21,7 +21,7 @@
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/video-blue)
 
 ## 🎨 AI Painting
-- [Lecture Series - Niji Academy](https://www.niji.academy/work/lecture)
+- [Lecture Series - Niji Academy](https://www.niji.academy/work/lecture) ![](https://img.shields.io/badge/Level-Easy-green)
 - [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/video-blue) ![](https://img.shields.io/badge/Level-Medium-yellow
 )
 

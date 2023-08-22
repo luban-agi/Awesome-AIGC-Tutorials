@@ -3,10 +3,10 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 ## 📜Content
 - [Introduction](#-introduction)
+- [Large Language Models](#-large-language-models)
   - [Prompt Engineering](#-prompt-engineering)
   - [Applications of LLMs](#-applications-of-llms)
   - [Theory of LLMs](#-theory-of-llms)
-- [Large Language Models](#-large-language-models)
 - [AI Painting](#-ai-painting)
 - [Deep Learning](#-deep-learning)
 - [AI System](#-ai-system)

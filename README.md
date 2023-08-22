@@ -9,13 +9,13 @@
 - [AI System](#-ai-system)
 
 ## 👋 Introduction
-- [Artificial Intelligence for Beginners - Microsoft](https://microsoft.github.io/AI-For-Beginners/)
 - [AI for Everyone - Andrew Ng](https://www.deeplearning.ai/courses/ai-for-everyone/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/video-blue)
+- [Artificial Intelligence for Beginners - Microsoft](https://microsoft.github.io/AI-For-Beginners/) ![](https://img.shields.io/badge/Level-Medium-yellow)
 
 ## 💬 Large Language Models
 - [CS324 - Large Language Models - Stanford University](https://stanford-cs324.github.io/winter2022/)
 - [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-Medium-yellow)
-- [CS224N: Natural Language Processing with Deep Learning - Stanford University](https://web.stanford.edu/class/cs224n/) ![](https://img.shields.io/badge/video-blue)![](https://img.shields.io/badge/Level-Medium-yellow
+- [CS224N: Natural Language Processing with Deep Learning - Stanford University](https://web.stanford.edu/class/cs224n/) ![](https://img.shields.io/badge/video-blue) ![](https://img.shields.io/badge/Level-Medium-yellow
 )
 - [COS 597G (Fall 2022): Understanding Large Language Models - Princeton University](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/video-blue)

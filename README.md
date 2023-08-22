@@ -58,10 +58,15 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 ## 🧠 Deep Learning
 - [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
+  - Discover the intricacies of Neural Networks in this highly popular YouTube playlist, seamlessly blending informative graphics with expert teachings, captivating countless students from basics to advanced image classification with Convolutional Neural Networks. 
 - [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+  - Andrej Karpathy's course guides students from the foundational backpropagation to advanced neural networks like GPT, emphasizing language models as a versatile gateway to mastering deep learning, with prerequisites in Python programming and basic math. 
 - [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+  - Practical Deep Learning for Coders 2022 is a free course offering hands-on experience in building, training, and deploying deep learning models across various domains using tools like PyTorch and fastai, suitable for those with coding knowledge and without the need for advanced math. 
 - [Deep Learning Specialization - Andrew Ng](https://www.deeplearning.ai/courses/deep-learning-specialization/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+  - Andrew Ng's Deep Learning Specialization is a top-rated, self-paced program on Coursera with over 1 million learners, offering clear modules and practical techniques in AI, supported by a vast community and breaking down the latest in machine learning into understandable content. 
 - [CS25: Transformers United V2 - Stanford University](https://web.stanford.edu/class/cs25/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+  - Explore the transformative power of transformers in deep learning across diverse domains, from NLP to biology, in a seminar featuring expert lectures, breakthrough discussions, and insights from leading researchers, aiming to foster understanding and cross-collaborative innovation. 
 
 ## 💻 AI System
 - [AI-Sys-Sp22 Machine Learning Systems - University of California, Berkeley](https://ucbrise.github.io/cs294-ai-sys-sp22/) ![](https://img.shields.io/badge/Level-Medium-yellow)

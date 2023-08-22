@@ -15,6 +15,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [AI for Everyone - Andrew Ng](https://www.deeplearning.ai/courses/ai-for-everyone/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
 - [Practical AI for Teachers and Students - Wharton School](https://www.youtube.com/playlist?list=PLwRdpYzPkkn302_rL5RrXvQE8j0jLP02j) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
 - [Artificial Intelligence for Beginners - Microsoft](https://microsoft.github.io/AI-For-Beginners/) ![](https://img.shields.io/badge/Level-Medium-yellow)
+- [Generative AI learning path - Google Cloud](https://www.cloudskillsboost.google/journeys/118) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
 
 ## 💬 Large Language Models
 ### 💡 Prompt Engineering

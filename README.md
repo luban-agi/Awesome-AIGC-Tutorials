@@ -70,8 +70,11 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 ## 💻 AI System
 - [AI-Sys-Sp22 Machine Learning Systems - University of California, Berkeley](https://ucbrise.github.io/cs294-ai-sys-sp22/) ![](https://img.shields.io/badge/Level-Medium-yellow)
-- [Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter](https://dlsyscourse.org/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue) 
+  - Delve into the symbiotic relationship between cutting-edge AI applications and the systems supporting them, exploring advancements in hardware, software, and AI-driven optimization techniques, through lectures, discussions, and collaborative hands-on projects. 
+- [Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter](https://dlsyscourse.org/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+  - Explore the foundations of deep learning systems by constructing a complete library, understanding every layer from model design to efficient algorithms, utilizing Python and C/C++. 
 - [CS 329S: Machine Learning Systems Design - Stanford University](https://stanford-cs329s.github.io/) ![](https://img.shields.io/badge/Level-Medium-yellow)
-- [15-849: Machine Learning Systems - Carnegie Mellon University](https://www.cs.cmu.edu/~zhihaoj2/15-849/) ![](https://img.shields.io/badge/Level-Hard-red
-)
+  - Master the intricacies of designing robust, scalable, and deployable machine learning systems, focusing on stakeholders, evolving requirements, and holistic system design, while addressing critical issues like privacy, fairness, and security. 
+- [15-849: Machine Learning Systems - Carnegie Mellon University](https://www.cs.cmu.edu/~zhihaoj2/15-849/) ![](https://img.shields.io/badge/Level-Hard-red)
+  - Dive into the architecture of modern ML systems, unraveling the journey from high-level model design to low-level kernel execution on heterogeneous hardware, while uncovering the principles and challenges of next-gen ML applications and platforms. 
 - [Computer Science 598D - Systems and Machine Learning - Princeton University](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html) ![](https://img.shields.io/badge/Level-Hard-red)

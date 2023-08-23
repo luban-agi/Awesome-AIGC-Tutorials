@@ -3,14 +3,14 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 ## 📜 Content
 - [👋 Introduction](#-introduction)
-- [Large Language Models](#-large-language-models)
-  - [Prompt Engineering](#-prompt-engineering)
-  - [Applications of LLMs](#-applications-of-llms)
-  - [Theory of LLMs](#-theory-of-llms)
-- [AI Painting](#-ai-painting)
-- [AI Audio](#-ai-audio)
-- [Deep Learning](#-deep-learning)
-- [AI System](#-ai-system)
+- [💬 Large Language Models](#-large-language-models)
+  - [💡 Prompt Engineering](#-prompt-engineering)
+  - [📱 Applications of LLMs](#-applications-of-llms)
+  - [🔬 Theory of LLMs](#-theory-of-llms)
+- [🎨 AI Painting](#-ai-painting)
+- [🔊 AI Audio](#-ai-audio)
+- [🧠 Deep Learning](#-deep-learning)
+- [💻 AI System](#-ai-system)
 
 ## 👋 Introduction
 - [AI for Everyone - Andrew Ng](https://www.deeplearning.ai/courses/ai-for-everyone/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)

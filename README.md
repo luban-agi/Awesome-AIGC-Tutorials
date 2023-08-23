@@ -8,6 +8,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - [Applications of LLMs](#-applications-of-llms)
   - [Theory of LLMs](#-theory-of-llms)
 - [AI Painting](#-ai-painting)
+- [AI Audio](#-ai-audio)
 - [Deep Learning](#-deep-learning)
 - [AI System](#-ai-system)
 
@@ -59,6 +60,10 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - Master generative AI in 'How Diffusion Models Work', an intermediate course by Sharon Zhou, where you'll craft diffusion models from scratch, enriched with hands-on coding and labs, ideal for those proficient in Python, Tensorflow, or Pytorch.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ![](https://img.shields.io/badge/Level-Medium-yellow)
   - The Hugging Face course offers an in-depth look into diffusion models, guiding participants through media generation, hands-on training, and customization using the Diffusers library, with a foundational understanding of Python and Deep Learning essential for the best experience.
+
+## 🔊 AI Audio
+- [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction) ![](https://img.shields.io/badge/Level-Medium-yellow)
+  - The Hugging Face Audio course teaches how to use transformers for various audio tasks, from speech recognition to generating speech from text, combining theory with hands-on exercises for learners familiar with deep learning. 
 
 ## 🧠 Deep Learning
 - [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)

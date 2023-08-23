@@ -2,7 +2,7 @@
 Awesome AIGC Tutorials houses a curated collection of tutorials and resources spanning across Large Language Models, AI Painting, and related fields. Discover in-depth insights and knowledge catered for both beginners and advanced AI enthusiasts.
 
 ## 📜 Content
-- [Introduction](#-introduction)
+- [👋 Introduction](#-introduction)
 - [Large Language Models](#-large-language-models)
   - [Prompt Engineering](#-prompt-engineering)
   - [Applications of LLMs](#-applications-of-llms)

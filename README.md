@@ -47,7 +47,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - This course offers an in-depth exploration of self-supervised learning techniques for NLP, training students to design and implement neural network models using PyTorch, with a focus on various language model architectures.
 - [CS224N: Natural Language Processing with Deep Learning - Stanford University](https://web.stanford.edu/class/cs224n/)  ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
   - This course provides a comprehensive insight into Deep Learning for NLP using PyTorch, emphasizing end-to-end neural models, eliminating the need for task-specific feature engineering, and equipping students with the skills to craft their own neural network solutions.
-- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/book-brown)
+- [Speech and Language Processing - Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/book-%2391672c)
 - [COS 597G (Fall 2022): Understanding Large Language Models - Princeton University](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) ![](https://img.shields.io/badge/Level-Hard-red)
   - An advanced exploration into the transformative realm of LLMs, discussing state-of-the-art models, their profound capabilities, and associated challenges, with an emphasis on in-depth research, ethical considerations, and hands-on project experience, tailored for seasoned students versed in machine learning and deep NLP frameworks.
 

@@ -5,7 +5,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [👋 Introduction](#-introduction)
 - [💬 Large Language Models](#-large-language-models)
   - [💡 Prompt Engineering](#-prompt-engineering)
-  - [📱 Applications of LLMs](#-applications-of-llms)
+  - [🛠️ LLMs in Practice](#-llms-in-practice)
   - [🔬 Theory of LLMs](#-theory-of-llms)
 - [🎨 AI Painting](#-ai-painting)
 - [🔊 AI Audio](#-ai-audio)
@@ -37,9 +37,11 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [Learn Prompting](https://learnprompting.org/) ![](https://img.shields.io/badge/Level-Medium-yellow)
   - Dive into a beginner-friendly guide on Generative AI and Prompt Engineering, offering insights from industry giants, and explore how these tools revolutionize content creation and the future of work. 
 
-### 📱 Applications of LLMs
+### 🛠️ Applications of LLMs
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
-  - Delve deep into prompt engineering, LLM operations, user experience design for language interfaces, augmented language model techniques, foundational LLM insights, hands-on projects, and the future of LLMs, complemented by expert talks from industry leaders on training and agent design. 
+  - Delve deep into prompt engineering, LLM operations, user experience design for language interfaces, augmented language model techniques, foundational LLM insights, hands-on projects, and the future of LLMs, complemented by expert talks from industry leaders on training and agent design.
+- [Finetuning Large Language Models - DeepLearning.AI] (https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+  - Gain the ability to determine when to apply finetuning, prepare data for training, and evaluate the performance of the models. Suitable for learners with Python familiarity and knowledge of deep learning frameworks. 
 
 ### 🔬 Theory of LLMs
 - [CS324 - Large Language Models - Stanford University](https://stanford-cs324.github.io/winter2022/) ![](https://img.shields.io/badge/Level-Easy-green)

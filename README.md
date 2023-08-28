@@ -56,7 +56,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - An advanced exploration into the transformative realm of LLMs, discussing state-of-the-art models, their profound capabilities, and associated challenges, with an emphasis on in-depth research, ethical considerations, and hands-on project experience, tailored for seasoned students versed in machine learning and deep NLP frameworks.
 
 ## 🎨 AI Painting
-- [Lecture Series - Niji Academy](https://www.niji.academy/work/lecture) ![](https://img.shields.io/badge/Level-Easy-green)
+- [Lecture Series: An interesting topic every week on the fundamentals of art - Niji Academy](https://www.niji.academy/work/lecture) ![](https://img.shields.io/badge/Level-Easy-green)
   - Niji Academy blends art fundamentals with AI, elevating painting skills and speeding up art learning.
 - [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
   - Master generative AI in 'How Diffusion Models Work', an intermediate course by Sharon Zhou, where you'll craft diffusion models from scratch, enriched with hands-on coding and labs, ideal for those proficient in Python, Tensorflow, or Pytorch.

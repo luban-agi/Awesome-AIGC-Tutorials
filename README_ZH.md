@@ -17,7 +17,7 @@
 - [Artificial Intelligence for Beginners - 微软](https://microsoft.github.io/AI-For-Beginners/) ![](https://img.shields.io/badge/Level-中等-yellow)
 - [Generative AI learning path - 谷歌](https://www.cloudskillsboost.google/journeys/118) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
 
-# 🎨 AI绘画
+## 🎨 AI绘画
 - [扩散模型 - Diffusion Model - 李宏毅](https://www.bilibili.com/video/BV14c411J7f2/?vd_source=a4218e1e16a294070cadf4eefa94fa32) ![](https://img.shields.io/badge/Level-中等-green) ![](https://img.shields.io/badge/视频-blue)
   - 偏宏观，比较通俗易懂 
 - [Diffusion扩散模型 - 唐宇迪](https://www.bilibili.com/video/BV1Re4y1s7uV/?p=1&vd_source=a4218e1e16a294070cadf4eefa94fa32) ![](https://img.shields.io/badge/Level-中等-green) ![](https://img.shields.io/badge/视频-blue)

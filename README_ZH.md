@@ -27,11 +27,18 @@
 - [Building Systems with the ChatGPT API - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
 - [LangChain for LLM Application Development - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/Video-blue)
 - [LangChain: Chat with Your Data - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
-- [Prompt Engineering for ChatGPT - 范德堡大学](https://www.coursera.org/learn/prompt-engineering?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_prompt-engineering_vanderbilt_FTCOF_learn_country-GB-country-UK&campaignid=20462816306&adgroupid=157715342052&device=c&keyword=prompt%20engineering%20coursera&matchtype=b&network=g&devicemodel=&adposition=&creativeid=670151312123&hide_mobile_promo&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVg8RCaUF0lwFyVnMuP7T7bHoH0jST0XXhQ3S1vmDxtZc8O1WlJ8FXQaAtG-EALw_wcB) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/视频-blue)
+- [Prompt Engineering for ChatGPT - 范德堡大学](https://www.coursera.org/learn/prompt-engineering?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_prompt-engineering_vanderbilt_FTCOF_learn_country-GB-country-UK&campaignid=20462816306&adgroupid=157715342052&device=c&keyword=prompt%20engineering%20coursera&matchtype=b&network=g&devicemodel=&adposition=&creativeid=670151312123&hide_mobile_promo&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVg8RCaUF0lwFyVnMuP7T7bHoH0jST0XXhQ3S1vmDxtZc8O1WlJ8FXQaAtG-EALw_wcB) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
 - [Learn Prompting](https://learnprompting.org/) ![](https://img.shields.io/badge/Level-中等-yellow)
 ### 🔧 大语言模型实践
-
+- [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [🔥新课] [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
 ### 🔬 大语言模型理论
+- [🔄RECENTLY UPDATED] [CS324 - Advances in Foundation Models - 斯坦福大学](https://stanford-cs324.github.io/winter2023/) ![](https://img.shields.io/badge/Level-简单-green)
+- [CS 601.471/671 NLP: Self-supervised Models - 约翰霍普金斯大学](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-中等-yellow)
+- [CS224N: Natural Language Processing with Deep Learning - 斯坦福大学](https://web.stanford.edu/class/cs224n/)  ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [Speech and Language Processing - Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/书-%2391672c)
+- [COS 597G (Fall 2022): Understanding Large Language Models - 普林斯顿大学](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) ![](https://img.shields.io/badge/Level-困难-red)
+
 
 ## 🎨 AI绘画
 - [系列讲座:每周一个关于艺术基础的有趣话题 - Niji Academy](https://www.niji.academy/work/lecture) [[中文版]](https://mp.weixin.qq.com/s/CxEv5NQF_wzAtqXnuNbKog) ![](https://img.shields.io/badge/Level-简单-green)

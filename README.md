@@ -44,11 +44,11 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
   - Delve deep into prompt engineering, LLM operations, user experience design for language interfaces, augmented language model techniques, foundational LLM insights, hands-on projects, and the future of LLMs, complemented by expert talks from industry leaders on training and agent design.
 - [🔥NEW] [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
-  - Gain the ability to determine when to apply finetuning, prepare data for training, and evaluate the performance of the models. Suitable for learners with Python familiarity and knowledge of deep learning frameworks. 
+  - Learn the techniques of finetuning large language models (LLMs) with Sharon Zhou, gaining expertise in data preparation, training, and updating neural net weights for improved results tailored to your data.
 
 ### 🔬 Theory of LLMs
-- [CS324 - Large Language Models - Stanford University](https://stanford-cs324.github.io/winter2022/) ![](https://img.shields.io/badge/Level-Easy-green)
-  - Explore the transformative impact of large language models in NLP, delving into their modeling, theoretical, ethical, and systems dimensions, while gaining practical experience in their applications.
+- [🔄RECENTLY UPDATED] [CS324 - Advances in Foundation Models - Stanford University](https://stanford-cs324.github.io/winter2023/) ![](https://img.shields.io/badge/Level-Easy-green)
+  - CS 324 delves into foundation models like GPT-3 and DALL-E, covering their principles, systems, ethics, and application, and culminates in a hands-on research project or application design.
 - [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-Medium-yellow)
   - This course offers an in-depth exploration of self-supervised learning techniques for NLP, training students to design and implement neural network models using PyTorch, with a focus on various language model architectures.
 - [CS224N: Natural Language Processing with Deep Learning - Stanford University](https://web.stanford.edu/class/cs224n/)  ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)

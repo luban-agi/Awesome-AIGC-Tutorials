@@ -1,6 +1,7 @@
 # Awesome AIGC Tutorials [![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://github.com/luban-agi/awesome-aigc-tutorials) 
 [English Version] | [[中文版]](README_ZH.md)
 
+
 Awesome AIGC Tutorials houses a curated collection of tutorials and resources spanning across Large Language Models, AI Painting, and related fields. Discover in-depth insights and knowledge catered for both beginners and advanced AI enthusiasts.
 
 ## 📜 Content

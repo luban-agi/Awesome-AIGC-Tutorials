@@ -35,12 +35,12 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [Prompt Engineering for ChatGPT - Vanderbilt University](https://www.coursera.org/learn/prompt-engineering?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_prompt-engineering_vanderbilt_FTCOF_learn_country-GB-country-UK&campaignid=20462816306&adgroupid=157715342052&device=c&keyword=prompt%20engineering%20coursera&matchtype=b&network=g&devicemodel=&adposition=&creativeid=670151312123&hide_mobile_promo&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVg8RCaUF0lwFyVnMuP7T7bHoH0jST0XXhQ3S1vmDxtZc8O1WlJ8FXQaAtG-EALw_wcB) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
   - Unlock the potential of Large Language Models like ChatGPT by mastering prompt engineering, transitioning from basic to sophisticated prompts, enabling diverse applications ranging from writing to simulation, suitable for anyone with basic computer skills.
 - [Learn Prompting](https://learnprompting.org/) ![](https://img.shields.io/badge/Level-Medium-yellow)
-  - Dive into a beginner-friendly guide on Generative AI and Prompt Engineering, offering insights from industry giants, and explore how these tools revolutionize content creation and the future of work. 
-
+  - Dive into a beginner-friendly guide on Generative AI and Prompt Engineering, offering insights from industry giants, and explore how these tools revolutionize content creation and the future of work.
+  - 
 ### 🛠️ LLMs in Practice
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
   - Delve deep into prompt engineering, LLM operations, user experience design for language interfaces, augmented language model techniques, foundational LLM insights, hands-on projects, and the future of LLMs, complemented by expert talks from industry leaders on training and agent design.
-- [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+- [[🔥 NEW] Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
   - Gain the ability to determine when to apply finetuning, prepare data for training, and evaluate the performance of the models. Suitable for learners with Python familiarity and knowledge of deep learning frameworks. 
 
 ### 🔬 Theory of LLMs

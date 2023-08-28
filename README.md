@@ -98,3 +98,5 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 ## 🤝 Friendship Links
 - [WayToAGI](http://waytoagi.com/)
   - WaytoAGI.com is the most comprehensive Chinese resource hub for AIGC, guiding users on an optimized learning journey to understand and harness the power of AI.
+- [Awesome Tool Learning](https://github.com/luban-agi/Awesome-Tool-Learning)
+  - Awesome Tool Learning is a GitHub repository that offers a wealth of resources on tool learning, including papers, frameworks, and applications.

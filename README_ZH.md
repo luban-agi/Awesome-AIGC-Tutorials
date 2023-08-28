@@ -60,12 +60,7 @@
 
 ## 💻 AI系统
 - [AI-Sys-Sp22 Machine Learning Systems - 加州大学伯克利分校](https://ucbrise.github.io/cs294-ai-sys-sp22/) ![](https://img.shields.io/badge/Level-中等-yellow)
-  - Delve into the symbiotic relationship between cutting-edge AI applications and the systems supporting them, exploring advancements in hardware, software, and AI-driven optimization techniques, through lectures, discussions, and collaborative hands-on projects. 
 - [Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter](https://dlsyscourse.org/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
-  - Explore the foundations of deep learning systems by constructing a complete library, understanding every layer from model design to efficient algorithms, utilizing Python and C/C++. 
 - [CS 329S: Machine Learning Systems Design - 斯坦福大学](https://stanford-cs329s.github.io/) ![](https://img.shields.io/badge/Level-中等-yellow)
-  - Master the intricacies of designing robust, scalable, and deployable machine learning systems, focusing on stakeholders, evolving requirements, and holistic system design, while addressing critical issues like privacy, fairness, and security. 
 - [15-849: Machine Learning Systems - 卡耐基梅隆大学](https://www.cs.cmu.edu/~zhihaoj2/15-849/) ![](https://img.shields.io/badge/Level-困难-red)
-  - Dive into the architecture of modern ML systems, unraveling the journey from high-level model design to low-level kernel execution on heterogeneous hardware, while uncovering the principles and challenges of next-gen ML applications and platforms. 
 - [Computer Science 598D - Systems and Machine Learning - 普林斯顿大学](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html) ![](https://img.shields.io/badge/Level-困难-red)
-  - Explore the synergy between systems and machine learning by dissecting recent research on efficient ML hardware/software and applying ML to system design, culminating in hands-on projects and deep discussions for graduate students.

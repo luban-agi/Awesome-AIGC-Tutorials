@@ -40,7 +40,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 ### 🛠️ Applications of LLMs
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
   - Delve deep into prompt engineering, LLM operations, user experience design for language interfaces, augmented language model techniques, foundational LLM insights, hands-on projects, and the future of LLMs, complemented by expert talks from industry leaders on training and agent design.
-- [Finetuning Large Language Models - DeepLearning.AI] (https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+- [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
   - Gain the ability to determine when to apply finetuning, prepare data for training, and evaluate the performance of the models. Suitable for learners with Python familiarity and knowledge of deep learning frameworks. 
 
 ### 🔬 Theory of LLMs

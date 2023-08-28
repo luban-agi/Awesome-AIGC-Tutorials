@@ -27,7 +27,7 @@
 
 ## 🎨 AI绘画
 - [系列讲座:每周一个关于艺术基础的有趣话题 - Niji Academy](https://www.niji.academy/work/lecture) [[中文版]](https://mp.weixin.qq.com/s/CxEv5NQF_wzAtqXnuNbKog) ![](https://img.shields.io/badge/Level-简单-green)
-- [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+- [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
 - [扩散模型 - Diffusion Model - 李宏毅](https://www.bilibili.com/video/BV14c411J7f2/?vd_source=a4218e1e16a294070cadf4eefa94fa32) ![](https://img.shields.io/badge/Level-中等-green) ![](https://img.shields.io/badge/视频-blue)
   - 偏宏观，比较通俗易懂 
 - [Diffusion扩散模型 - 唐宇迪](https://www.bilibili.com/video/BV1Re4y1s7uV/?p=1&vd_source=a4218e1e16a294070cadf4eefa94fa32) ![](https://img.shields.io/badge/Level-中等-green) ![](https://img.shields.io/badge/视频-blue)

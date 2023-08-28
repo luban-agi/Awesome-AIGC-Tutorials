@@ -17,8 +17,16 @@
 - [Artificial Intelligence for Beginners - 微软](https://microsoft.github.io/AI-For-Beginners/) ![](https://img.shields.io/badge/Level-中等-yellow)
 - [Generative AI learning path - 谷歌](https://www.cloudskillsboost.google/journeys/118) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
 
+## 💬 大语言模型
+
+### 💡 提示工程
+
+### 🛠️ 大预言模型实践
+
+### 🔬 大语言模型理论
+
 ## 🎨 AI绘画
-- [系列讲座:每周一个关于艺术基础的有趣话题 - Niji Academy](https://www.niji.academy/work/lecture) [[中文翻译]](https://mp.weixin.qq.com/s/CxEv5NQF_wzAtqXnuNbKog) ![](https://img.shields.io/badge/Level-Easy-green)
+- [系列讲座:每周一个关于艺术基础的有趣话题 - Niji Academy](https://www.niji.academy/work/lecture) [[中文版]](https://mp.weixin.qq.com/s/CxEv5NQF_wzAtqXnuNbKog) ![](https://img.shields.io/badge/Level-Easy-green)
 - [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
 - [扩散模型 - Diffusion Model - 李宏毅](https://www.bilibili.com/video/BV14c411J7f2/?vd_source=a4218e1e16a294070cadf4eefa94fa32) ![](https://img.shields.io/badge/Level-中等-green) ![](https://img.shields.io/badge/视频-blue)
   - 偏宏观，比较通俗易懂 

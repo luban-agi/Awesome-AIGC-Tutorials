@@ -1,4 +1,7 @@
 # Awesome AIGC Tutorials [![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://github.com/luban-agi/awesome-aigc-tutorials) 
+[English](README.md) | 中文版
+
+
 这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者。
 ## 📜 目录
 - [👋 介绍](#-介绍)

@@ -10,7 +10,7 @@
   - [🔧 大语言模型实践](#-大语言模型实践)
   - [🔬 大语言模型理论](#-大语言模型理论)
 - [🎨 AI绘画](#-ai绘画)
-- [🔊 AI语音](#-ai语音)
+- [🔊 AI音频](#-ai音频)
 - [🧠 深度学习](#-深度学习)
 - [💻 AI系统](#-ai系统)
 
@@ -33,12 +33,11 @@
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
 - [🔥新课] [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
 ### 🔬 大语言模型理论
-- [🔄RECENTLY UPDATED] [CS324 - Advances in Foundation Models - 斯坦福大学](https://stanford-cs324.github.io/winter2023/) ![](https://img.shields.io/badge/Level-简单-green)
+- [🔄最近更新] [CS324 - Advances in Foundation Models - 斯坦福大学](https://stanford-cs324.github.io/winter2023/) ![](https://img.shields.io/badge/Level-简单-green)
 - [CS 601.471/671 NLP: Self-supervised Models - 约翰霍普金斯大学](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-中等-yellow)
 - [CS224N: Natural Language Processing with Deep Learning - 斯坦福大学](https://web.stanford.edu/class/cs224n/)  ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
 - [Speech and Language Processing - Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/书-%2391672c)
 - [COS 597G (Fall 2022): Understanding Large Language Models - 普林斯顿大学](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) ![](https://img.shields.io/badge/Level-困难-red)
-
 
 ## 🎨 AI绘画
 - [系列讲座:每周一个关于艺术基础的有趣话题 - Niji Academy](https://www.niji.academy/work/lecture) [[中文版]](https://mp.weixin.qq.com/s/CxEv5NQF_wzAtqXnuNbKog) ![](https://img.shields.io/badge/Level-简单-green)
@@ -47,3 +46,26 @@
   - 偏宏观，比较通俗易懂 
 - [Diffusion扩散模型 - 唐宇迪](https://www.bilibili.com/video/BV1Re4y1s7uV/?p=1&vd_source=a4218e1e16a294070cadf4eefa94fa32) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
   - 唐宇迪老师讲stable diffusion和dalle推理讲的比较清楚
+- - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ![](https://img.shields.io/badge/Level-中等-yellow)
+
+## 🔊 AI音频
+- [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction) ![](https://img.shields.io/badge/Level-中等-yellow)
+
+## 🧠 深度学习
+- [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
+- [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [Deep Learning Specialization - 吴恩达](https://www.deeplearning.ai/courses/deep-learning-specialization/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [CS25: Transformers United V2 - 斯坦福大学](https://web.stanford.edu/class/cs25/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+
+## 💻 AI系统
+- [AI-Sys-Sp22 Machine Learning Systems - 加州大学伯克利分校](https://ucbrise.github.io/cs294-ai-sys-sp22/) ![](https://img.shields.io/badge/Level-中等-yellow)
+  - Delve into the symbiotic relationship between cutting-edge AI applications and the systems supporting them, exploring advancements in hardware, software, and AI-driven optimization techniques, through lectures, discussions, and collaborative hands-on projects. 
+- [Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter](https://dlsyscourse.org/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+  - Explore the foundations of deep learning systems by constructing a complete library, understanding every layer from model design to efficient algorithms, utilizing Python and C/C++. 
+- [CS 329S: Machine Learning Systems Design - 斯坦福大学](https://stanford-cs329s.github.io/) ![](https://img.shields.io/badge/Level-中等-yellow)
+  - Master the intricacies of designing robust, scalable, and deployable machine learning systems, focusing on stakeholders, evolving requirements, and holistic system design, while addressing critical issues like privacy, fairness, and security. 
+- [15-849: Machine Learning Systems - 卡耐基梅隆大学](https://www.cs.cmu.edu/~zhihaoj2/15-849/) ![](https://img.shields.io/badge/Level-困难-red)
+  - Dive into the architecture of modern ML systems, unraveling the journey from high-level model design to low-level kernel execution on heterogeneous hardware, while uncovering the principles and challenges of next-gen ML applications and platforms. 
+- [Computer Science 598D - Systems and Machine Learning - 普林斯顿大学](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html) ![](https://img.shields.io/badge/Level-困难-red)
+  - Explore the synergy between systems and machine learning by dissecting recent research on efficient ML hardware/software and applying ML to system design, culminating in hands-on projects and deep discussions for graduate students.

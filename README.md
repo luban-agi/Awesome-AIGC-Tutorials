@@ -67,7 +67,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - Master generative AI in 'How Diffusion Models Work', an intermediate course by Sharon Zhou, where you'll craft diffusion models from scratch, enriched with hands-on coding and labs, ideal for those proficient in Python, Tensorflow, or Pytorch.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ![](https://img.shields.io/badge/Level-Medium-yellow)
   - The Hugging Face course offers an in-depth look into diffusion models, guiding participants through media generation, hands-on training, and customization using the Diffusers library, with a foundational understanding of Python and Deep Learning essential for the best experience.
-- [Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion - fast.ai](https://course.fast.ai/Lessons/part2.html) ![](https://img.shields.io/badge/Level-Medium-yellow)
+- [Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion - fast.ai](https://course.fast.ai/Lessons/part2.html) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
 
 ## 🔊 AI Audio
 - [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction) ![](https://img.shields.io/badge/Level-Medium-yellow)

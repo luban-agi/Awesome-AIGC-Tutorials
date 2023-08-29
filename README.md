@@ -38,6 +38,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - Delve into Retrieval Augmented Generation and chatbot creation based on document content with LangChain, covering data loading, splitting, embeddings, advanced retrieval techniques, and interactive chatbot building, designed for Python-savvy developers keen on harnessing Large Language Models.
 - [Prompt Engineering for ChatGPT - Vanderbilt University](https://www.coursera.org/learn/prompt-engineering?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_prompt-engineering_vanderbilt_FTCOF_learn_country-GB-country-UK&campaignid=20462816306&adgroupid=157715342052&device=c&keyword=prompt%20engineering%20coursera&matchtype=b&network=g&devicemodel=&adposition=&creativeid=670151312123&hide_mobile_promo&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVg8RCaUF0lwFyVnMuP7T7bHoH0jST0XXhQ3S1vmDxtZc8O1WlJ8FXQaAtG-EALw_wcB) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
   - Unlock the potential of Large Language Models like ChatGPT by mastering prompt engineering, transitioning from basic to sophisticated prompts, enabling diverse applications ranging from writing to simulation, suitable for anyone with basic computer skills.
+- [Prompt Engineering Guide - DAIR.AI](https://www.promptingguide.ai/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
 - [Learn Prompting](https://learnprompting.org/) ![](https://img.shields.io/badge/Level-Medium-yellow)
   - Dive into a beginner-friendly guide on Generative AI and Prompt Engineering, offering insights from industry giants, and explore how these tools revolutionize content creation and the future of work.
 
@@ -66,6 +67,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - Master generative AI in 'How Diffusion Models Work', an intermediate course by Sharon Zhou, where you'll craft diffusion models from scratch, enriched with hands-on coding and labs, ideal for those proficient in Python, Tensorflow, or Pytorch.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ![](https://img.shields.io/badge/Level-Medium-yellow)
   - The Hugging Face course offers an in-depth look into diffusion models, guiding participants through media generation, hands-on training, and customization using the Diffusers library, with a foundational understanding of Python and Deep Learning essential for the best experience.
+- [Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion - fast.ai](https://course.fast.ai/Lessons/part2.html) ![](https://img.shields.io/badge/Level-Medium-yellow)
 
 ## 🔊 AI Audio
 - [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction) ![](https://img.shields.io/badge/Level-Medium-yellow)

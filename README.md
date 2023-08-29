@@ -39,6 +39,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [Prompt Engineering for ChatGPT - Vanderbilt University](https://www.coursera.org/learn/prompt-engineering?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_prompt-engineering_vanderbilt_FTCOF_learn_country-GB-country-UK&campaignid=20462816306&adgroupid=157715342052&device=c&keyword=prompt%20engineering%20coursera&matchtype=b&network=g&devicemodel=&adposition=&creativeid=670151312123&hide_mobile_promo&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVg8RCaUF0lwFyVnMuP7T7bHoH0jST0XXhQ3S1vmDxtZc8O1WlJ8FXQaAtG-EALw_wcB) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
   - Unlock the potential of Large Language Models like ChatGPT by mastering prompt engineering, transitioning from basic to sophisticated prompts, enabling diverse applications ranging from writing to simulation, suitable for anyone with basic computer skills.
 - [Prompt Engineering Guide - DAIR.AI](https://www.promptingguide.ai/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
+  - This guide introduces Prompt Engineering, a discipline that optimizes interactions with Large Language Models, offering extensive resources, research, and tools. 
 - [Learn Prompting](https://learnprompting.org/) ![](https://img.shields.io/badge/Level-Medium-yellow)
   - Dive into a beginner-friendly guide on Generative AI and Prompt Engineering, offering insights from industry giants, and explore how these tools revolutionize content creation and the future of work.
 
@@ -68,6 +69,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ![](https://img.shields.io/badge/Level-Medium-yellow)
   - The Hugging Face course offers an in-depth look into diffusion models, guiding participants through media generation, hands-on training, and customization using the Diffusers library, with a foundational understanding of Python and Deep Learning essential for the best experience.
 - [Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion - fast.ai](https://course.fast.ai/Lessons/part2.html) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+  - This course offers an in-depth exploration of Stable Diffusion algorithms, covering advanced deep learning techniques and hands-on projects using PyTorch, empowering students with expertise in cutting-edge diffusion models. 
 
 ## 🔊 AI Audio
 - [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction) ![](https://img.shields.io/badge/Level-Medium-yellow)
@@ -82,12 +84,15 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - Practical Deep Learning for Coders 2022 is a free course offering hands-on experience in building, training, and deploying deep learning models across various domains using tools like PyTorch and fastai, suitable for those with coding knowledge and without the need for advanced math. 
 - [Deep Learning Specialization - Andrew Ng](https://www.deeplearning.ai/courses/deep-learning-specialization/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
   - Andrew Ng's Deep Learning Specialization is a top-rated, self-paced program on Coursera with over 1 million learners, offering clear modules and practical techniques in AI, supported by a vast community and breaking down the latest in machine learning into understandable content.
-- [6.S191: Introduction to Deep Learning - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+- [6.S191: Introduction to Deep Learning - Massachusetts Institute of Technology](http://introtodeeplearning.com/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+  - MIT's intensive bootcamp on deep learning fundamentals, covering applications from computer vision to biology, with hands-on TensorFlow practice and a culminating project competition. Basic calculus and linear algebra knowledge required; Python experience beneficial. 
 - [CS25: Transformers United V2 - Stanford University](https://web.stanford.edu/class/cs25/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
   - Explore the transformative power of transformers in deep learning across diverse domains, from NLP to biology, in a seminar featuring expert lectures, breakthrough discussions, and insights from leading researchers, aiming to foster understanding and cross-collaborative innovation.
-- [Deep Learning Lecture Series 2020 - DeepMind x University College London](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
-- [Reinforcement Learning Lecture Series 2021 - DeepMind x University College London](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) ![](https://img.shields.io/badge/Level-Hard-red) ![](https://img.shields.io/badge/Video-blue)
-
+- [Deep Learning Lecture Series 2020 - DeepMind x University College London](https://www.deepmind.com/learning-resources/deep-learning-lecture-series-2020) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+  - DeepMind presents a 12-lecture series on Deep Learning, diving from foundational topics to advanced techniques, encompassing areas from object recognition to responsible AI innovation, all delivered by leading research experts.
+- [Reinforcement Learning Lecture Series 2021 - DeepMind x University College London](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021) ![](https://img.shields.io/badge/Level-Hard-red) ![](https://img.shields.io/badge/Video-blue)
+  - DeepMind and UCL present a comprehensive 13-lecture series on modern reinforcement learning, from foundational concepts to advanced deep RL techniques, led by expert researchers Hado van Hasselt, Diana Borsa, and Matteo Hessel.
+  
 ## 💻 AI System
 - [AI-Sys-Sp22 Machine Learning Systems - University of California, Berkeley](https://ucbrise.github.io/cs294-ai-sys-sp22/) ![](https://img.shields.io/badge/Level-Medium-yellow)
   - Delve into the symbiotic relationship between cutting-edge AI applications and the systems supporting them, exploring advancements in hardware, software, and AI-driven optimization techniques, through lectures, discussions, and collaborative hands-on projects. 

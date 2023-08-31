@@ -42,7 +42,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - This guide introduces Prompt Engineering, a discipline that optimizes interactions with Large Language Models, offering extensive resources, research, and tools.
 - [Learn Prompting](https://learnprompting.org/) ![](https://img.shields.io/badge/Level-Medium-yellow)
   - Dive into a beginner-friendly guide on Generative AI and Prompt Engineering, offering insights from industry giants, and explore how these tools revolutionize content creation and the future of work.
-- [LangChain AI Handbook - James Briggs and Francisco Ingham](https://www.pinecone.io/learn/series/langchain/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+- [LangChain AI Handbook - James Briggs and Francisco Ingham](https://www.pinecone.io/learn/series/langchain/) ![](https://img.shields.io/badge/Level-Medium-yellow)
 
 ### 🔧 LLMs in Practice
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)

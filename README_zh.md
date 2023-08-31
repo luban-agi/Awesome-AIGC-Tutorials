@@ -13,6 +13,7 @@
 - [🔊 AI音频](#-ai音频)
 - [🧠 深度学习](#-深度学习)
 - [💻 AI系统](#-ai系统)
+- [友情链接]()
 
 ## 👋 入门
 - [AI for Everyone - 吴恩达](https://www.deeplearning.ai/courses/ai-for-everyone/) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
@@ -46,6 +47,7 @@
 
 ## 🎨 AI绘画
 - [系列讲座:每周一个关于艺术基础的有趣话题 - Niji Academy](https://www.niji.academy/work/lecture) [[中文版]](https://mp.weixin.qq.com/s/CxEv5NQF_wzAtqXnuNbKog) ![](https://img.shields.io/badge/Level-简单-green)
+- [AIGCTalk-Midjourney学习手册](https://ciweicui.feishu.cn/docx/DPbidgdBeoNw55xKjO6c7ao3nbc) ![](https://img.shields.io/badge/Level-简单-green)
 - [【Midjourney】保姆级AI绘画创作系列教学课程 - 莱森](https://space.bilibili.com/630876766/channel/collectiondetail?sid=1045607) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
 - [【AI绘画】Stable Diffusion 系列教程](https://space.bilibili.com/12566101/channel/seriesdetail?sid=2706990) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
   - 秋葉aaaki大神喂饭级别Stable Diffusion 系列教程

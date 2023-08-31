@@ -34,10 +34,15 @@
 - [🔥新课] [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
 ### 🔬 大语言模型理论
 - [🔄最近更新] [CS324 - Advances in Foundation Models - 斯坦福大学](https://stanford-cs324.github.io/winter2023/) ![](https://img.shields.io/badge/Level-简单-green)
+  - 斯坦福大学关于大模型的新课，主要材料是一些notes，介绍了大语言模型的基础知识、能力范围、训练部署以及一些大模型相关的问题（数据安全、法律、危害等），总体来说比较简单，适合入门。2023年的版本对课纲进行了更新，增加了关于图像-文本和多模态的大模型内容。
 - [CS 601.471/671 NLP: Self-supervised Models - 约翰霍普金斯大学](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-中等-yellow)
+  - JHU也是NLP大牛校，这门课难度适中，课程主页上各类资源还挺多的，建议大家看一看。 
 - [CS224N: Natural Language Processing with Deep Learning - 斯坦福大学](https://web.stanford.edu/class/cs224n/)  ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+  - 这门课Christopher Manning在斯坦福开了很多年，很经典的课程。前面是NLP的基础知识，后面几节课会涉及到大语言模型。 
 - [Speech and Language Processing - Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/书-%2391672c)
+  - 最经典的NLP教材，本来计划在大概三四年前就完稿的，但是由于近几年NLP领域发展实在太快，作者干脆就不设DDL了，一直在持续更新中。 
 - [COS 597G (Fall 2022): Understanding Large Language Models - 普林斯顿大学](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) ![](https://img.shields.io/badge/Level-困难-red)
+  - Danqi Chen的课，课程难度较高，主要材料是PPT和相关的论文，适合深入LLM某个方向的同学。 
 
 ## 🎨 AI绘画
 - [系列讲座:每周一个关于艺术基础的有趣话题 - Niji Academy](https://www.niji.academy/work/lecture) [[中文版]](https://mp.weixin.qq.com/s/CxEv5NQF_wzAtqXnuNbKog) ![](https://img.shields.io/badge/Level-简单-green)

@@ -13,7 +13,7 @@
 - [🔊 AI音频](#-ai音频)
 - [🧠 深度学习](#-深度学习)
 - [💻 AI系统](#-ai系统)
-- [友情链接]()
+- [🤝友情链接](#-友情链接)
 
 ## 👋 入门
 - [AI for Everyone - 吴恩达](https://www.deeplearning.ai/courses/ai-for-everyone/) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
@@ -74,3 +74,10 @@
 - [CS 329S: Machine Learning Systems Design - 斯坦福大学](https://stanford-cs329s.github.io/) ![](https://img.shields.io/badge/Level-中等-yellow)
 - [15-849: Machine Learning Systems - 卡耐基梅隆大学](https://www.cs.cmu.edu/~zhihaoj2/15-849/) ![](https://img.shields.io/badge/Level-困难-red)
 - [Computer Science 598D - Systems and Machine Learning - 普林斯顿大学](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html) ![](https://img.shields.io/badge/Level-困难-red)
+
+## 🤝 友情链接
+- [WayToAGI](http://waytoagi.com/)
+  - WaytoAGI.com 是最全面的中文AIGC资源知识库，包括最新AI动态、提示词、学习指南等，长期保持活跃更新。
+- [Awesome Tool Learning](https://github.com/luban-agi/Awesome-Tool-Learning)
+  - Awesome Tool Learning 提供丰富的关于工具学习的资源，包括论文、框架和应用程序。
+

@@ -12,6 +12,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - [🔬 Theory of LLMs](#-theory-of-llms)
 - [🎨 AI Painting](#-ai-painting)
 - [🔊 AI Audio](#-ai-audio)
+- [🌈 Multimodal](#-multimodal)
 - [🧠 Deep Learning](#-deep-learning)
 - [💻 AI System](#-ai-system)
 - [🤝 Friendship Links](#-friendship-links)
@@ -75,7 +76,10 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 ## 🔊 AI Audio
 - [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction) ![](https://img.shields.io/badge/Level-Medium-yellow)
-  - The Hugging Face Audio course teaches how to use transformers for various audio tasks, from speech recognition to generating speech from text, combining theory with hands-on exercises for learners familiar with deep learning. 
+  - The Hugging Face Audio course teaches how to use transformers for various audio tasks, from speech recognition to generating speech from text, combining theory with hands-on exercises for learners familiar with deep learning.
+ 
+## 🌈 Multimodal
+- [11-777: MultiModal Machine Learning (Fall 2022) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
 
 ## 🧠 Deep Learning
 - [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)

@@ -80,6 +80,9 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
  
 ## 🌈 Multimodal
 - [11-777: MultiModal Machine Learning (Fall 2022) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+  - This course delves into Multimodal Machine Learning (MMML), covering its mathematical foundations, state-of-the-art probabilistic models, and key challenges, while highlighting recent applications and techniques such as multimodal transformers and neuro-symbolic models. 
+- [11-877: Advanced Topics in MultiModal Machine Learning (Fall 2022) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/) ![](https://img.shields.io/badge/Level-Hard-red)
+  - This course explores Multimodal Machine Learning (MMML), covering technical challenges and recent achievements. It emphasizes critical thinking and future research trends, with weekly updates, discussion probes, and research highlights on the course website. 
 
 ## 🧠 Deep Learning
 - [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)

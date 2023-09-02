@@ -79,6 +79,8 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - The Hugging Face Audio course teaches how to use transformers for various audio tasks, from speech recognition to generating speech from text, combining theory with hands-on exercises for learners familiar with deep learning.
  
 ## 🌈 Multimodal
+- [Tutorial on MultiModal Machine Learning (ICML 2023) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+  - This course offers an in-depth look at Multimodal Machine Learning, drawing insights from the latest edition of a survey paper and CMU's academic teachings, addressing its unique challenges and future directions. 
 - [11-777: MultiModal Machine Learning (Fall 2022) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
   - This course delves into Multimodal Machine Learning (MMML), covering its mathematical foundations, state-of-the-art probabilistic models, and key challenges, while highlighting recent applications and techniques such as multimodal transformers and neuro-symbolic models. 
 - [11-877: Advanced Topics in MultiModal Machine Learning (Fall 2022) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/) ![](https://img.shields.io/badge/Level-Hard-red)

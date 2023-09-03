@@ -15,7 +15,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [🌈 Multimodal](#-multimodal)
 - [🧠 Deep Learning](#-deep-learning)
 - [💻 AI System](#-ai-system)
-- [🗂 Miscellaneous]
+- [🗂 Miscellaneous](#miscellaneous)
   - [✨ Star History](#-star-history)
   - [🤝 Friendship Links](#-friendship-links)
 
@@ -124,6 +124,8 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - Dive into the architecture of modern ML systems, unraveling the journey from high-level model design to low-level kernel execution on heterogeneous hardware, while uncovering the principles and challenges of next-gen ML applications and platforms. 
 - [Computer Science 598D - Systems and Machine Learning - Princeton University](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html) ![](https://img.shields.io/badge/Level-Hard-red)
   - Explore the synergy between systems and machine learning by dissecting recent research on efficient ML hardware/software and applying ML to system design, culminating in hands-on projects and deep discussions for graduate students.
+
+## 🗂 Miscellaneous
 
 ### ✨ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=luban-agi/Awesome-AIGC-Tutorials&type=Date)](https://star-history.com/#luban-agi/Awesome-AIGC-Tutorials&Date)

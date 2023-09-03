@@ -32,17 +32,14 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 ## 💬 Large Language Models
 
 ### 💡 Prompt Engineering
-- [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/notebook-orange
+- [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/Notebook-orange
 )
   - Co-taught by OpenAI and DeepLearning.AI, this course guides learners in leveraging Large Language Models for tasks like summarizing and text transformation, with hands-on experiences in a Jupyter notebook environment.
-- [Building Systems with the ChatGPT API - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/notebook-orange
-)
+- [Building Systems with the ChatGPT API - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/Notebook-orange)
   - Led by experts from OpenAI and DeepLearning.AI, this course teaches automating workflows using language models, creating prompt chains, integrating Python, and designing chatbots, all through hands-on Jupyter notebook exercises with just basic Python knowledge required.
-- [LangChain for LLM Application Development - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/notebook-orange
-)
+- [LangChain for LLM Application Development - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/Notebook-orange)
   - Guided by the creator of LangChain and Andrew Ng, this course dives into advanced LLM techniques like chaining operations and using models as reasoning agents, empowering learners to craft robust applications quickly with foundational Python knowledge.
-- [LangChain: Chat with Your Data - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/notebook-orange
-)
+- [LangChain: Chat with Your Data - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/Notebook-orange)
   - Delve into Retrieval Augmented Generation and chatbot creation based on document content with LangChain, covering data loading, splitting, embeddings, advanced retrieval techniques, and interactive chatbot building, designed for Python-savvy developers keen on harnessing Large Language Models.
 - [Prompt Engineering for ChatGPT - Vanderbilt University](https://www.coursera.org/learn/prompt-engineering?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_prompt-engineering_vanderbilt_FTCOF_learn_country-GB-country-UK&campaignid=20462816306&adgroupid=157715342052&device=c&keyword=prompt%20engineering%20coursera&matchtype=b&network=g&devicemodel=&adposition=&creativeid=670151312123&hide_mobile_promo&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVg8RCaUF0lwFyVnMuP7T7bHoH0jST0XXhQ3S1vmDxtZc8O1WlJ8FXQaAtG-EALw_wcB) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
   - Unlock the potential of Large Language Models like ChatGPT by mastering prompt engineering, transitioning from basic to sophisticated prompts, enabling diverse applications ranging from writing to simulation, suitable for anyone with basic computer skills.
@@ -50,13 +47,13 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - This guide introduces Prompt Engineering, a discipline that optimizes interactions with Large Language Models, offering extensive resources, research, and tools.
 - [Learn Prompting](https://learnprompting.org/) ![](https://img.shields.io/badge/Level-Medium-yellow)
   - Dive into a beginner-friendly guide on Generative AI and Prompt Engineering, offering insights from industry giants, and explore how these tools revolutionize content creation and the future of work.
-- [LangChain AI Handbook - James Briggs and Francisco Ingham](https://www.pinecone.io/learn/series/langchain/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/book-%2391672c)
+- [LangChain AI Handbook - James Briggs and Francisco Ingham](https://www.pinecone.io/learn/series/langchain/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Book-%2391672c)
   - Explore the transformative world of LangChain, mastering core components, crafting effective prompts, and harnessing advanced AI agents, conversational memories, and custom tools for cutting-edge applications. 
 
 ### 🔧 LLMs in Practice
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
   - Delve deep into prompt engineering, LLM operations, user experience design for language interfaces, augmented language model techniques, foundational LLM insights, hands-on projects, and the future of LLMs, complemented by expert talks from industry leaders on training and agent design.
-- [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/notebook-orange)
+- [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/Notebook-orange)
   - Learn the techniques of finetuning large language models (LLMs) with Sharon Zhou, gaining expertise in data preparation, training, and updating neural net weights for improved results tailored to your data.
 
 ### 🔬 Theory of LLMs
@@ -74,9 +71,9 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 ## 🎨 AI Painting
 - [Lecture Series: An interesting topic every week on the fundamentals of art - Niji Academy](https://www.niji.academy/work/lecture) ![](https://img.shields.io/badge/Level-Easy-green)
   - Niji Academy blends art fundamentals with AI, elevating painting skills and speeding up art learning.
-- [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/notebook-orange)
+- [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/Notebook-orange)
   - Master generative AI in 'How Diffusion Models Work', an intermediate course by Sharon Zhou, where you'll craft diffusion models from scratch, enriched with hands-on coding and labs, ideal for those proficient in Python, Tensorflow, or Pytorch.
-- [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/notebook-orange)
+- [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Notebook-orange)
   - The Hugging Face course offers an in-depth look into diffusion models, guiding participants through media generation, hands-on training, and customization using the Diffusers library, with a foundational understanding of Python and Deep Learning essential for the best experience.
 - [Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion - fast.ai](https://course.fast.ai/Lessons/part2.html) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
   - This course offers an in-depth exploration of Stable Diffusion algorithms, covering advanced deep learning techniques and hands-on projects using PyTorch, empowering students with expertise in cutting-edge diffusion models. 

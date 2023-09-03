@@ -57,7 +57,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - Learn the techniques of finetuning large language models (LLMs) with Sharon Zhou, gaining expertise in data preparation, training, and updating neural net weights for improved results tailored to your data.
 
 ### 🔬 Theory of LLMs
-- [CS324 - Advances in Foundation Models - Stanford University](https://stanford-cs324.github.io/winter2023/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/notebook-orange)
+- [CS324 - Advances in Foundation Models - Stanford University](https://stanford-cs324.github.io/winter2023/) ![](https://img.shields.io/badge/Level-Easy-green)
   - CS 324 delves into foundation models like GPT-3 and DALL-E, covering their principles, systems, ethics, and application, and culminates in a hands-on research project or application design.
 - [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-Medium-yellow)
   - This course offers an in-depth exploration of self-supervised learning techniques for NLP, training students to design and implement neural network models using PyTorch, with a focus on various language model architectures.

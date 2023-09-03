@@ -81,6 +81,8 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 ## 🔊 AI Audio
 - [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction) ![](https://img.shields.io/badge/Level-Medium-yellow) 
   - The Hugging Face Audio course teaches how to use transformers for various audio tasks, from speech recognition to generating speech from text, combining theory with hands-on exercises for learners familiar with deep learning.
+- [CS224S: Spoken Language Processing - Stanford University](http://web.stanford.edu/class/cs224s/) ![](https://img.shields.io/badge/Level-Medium-yellow)
+  - An immersive course on spoken language technology, covering dialog systems, deep learning in speech recognition and synthesis, with hands-on projects using modern tools like PyTorch, Alexa Skills Kit, and SpeechBrain, culminating in student-driven research or system design projects. 
  
 ## 🌈 Multimodal
 - [Tutorial on MultiModal Machine Learning (ICML 2023) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)

@@ -16,7 +16,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [🧠 Deep Learning](#-deep-learning)
 - [💻 AI System](#-ai-system)
 - [🤝 Friendship Links](#-friendship-links)
-- [⭐️ Star History](#-star-history)
+- [✨ Star History](#-star-history)
 
 ## 👋 Introduction
 - [AI for Everyone - Andrew Ng](https://www.deeplearning.ai/courses/ai-for-everyone/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
@@ -129,5 +129,5 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [Awesome Tool Learning](https://github.com/luban-agi/Awesome-Tool-Learning)
   - Awesome Tool Learning is a GitHub repository that offers a wealth of resources on tool learning, including papers, frameworks, and applications.
 
-## ⭐️ Star History
+## ✨ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=luban-agi/Awesome-AIGC-Tutorials&type=Date)](https://star-history.com/#luban-agi/Awesome-AIGC-Tutorials&Date)

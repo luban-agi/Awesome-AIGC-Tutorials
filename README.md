@@ -15,8 +15,8 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [🌈 Multimodal](#-multimodal)
 - [🧠 Deep Learning](#-deep-learning)
 - [💻 AI System](#-ai-system)
-- [🤝 Friendship Links](#-friendship-links)
 - [✨ Star History](#-star-history)
+- [🤝 Friendship Links](#-friendship-links)
 
 ## 👋 Introduction
 - [AI for Everyone - Andrew Ng](https://www.deeplearning.ai/courses/ai-for-everyone/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
@@ -122,12 +122,12 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - Dive into the architecture of modern ML systems, unraveling the journey from high-level model design to low-level kernel execution on heterogeneous hardware, while uncovering the principles and challenges of next-gen ML applications and platforms. 
 - [Computer Science 598D - Systems and Machine Learning - Princeton University](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html) ![](https://img.shields.io/badge/Level-Hard-red)
   - Explore the synergy between systems and machine learning by dissecting recent research on efficient ML hardware/software and applying ML to system design, culminating in hands-on projects and deep discussions for graduate students.
- 
+
+## ✨ Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=luban-agi/Awesome-AIGC-Tutorials&type=Date)](https://star-history.com/#luban-agi/Awesome-AIGC-Tutorials&Date)
+
 ## 🤝 Friendship Links
 - [WayToAGI](http://waytoagi.com/)
   - WaytoAGI.com is the most comprehensive Chinese resource hub for AIGC, guiding users on an optimized learning journey to understand and harness the power of AI.
 - [Awesome Tool Learning](https://github.com/luban-agi/Awesome-Tool-Learning)
   - Awesome Tool Learning is a GitHub repository that offers a wealth of resources on tool learning, including papers, frameworks, and applications.
-
-## ✨ Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=luban-agi/Awesome-AIGC-Tutorials&type=Date)](https://star-history.com/#luban-agi/Awesome-AIGC-Tutorials&Date)

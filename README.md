@@ -15,8 +15,9 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [🌈 Multimodal](#-multimodal)
 - [🧠 Deep Learning](#-deep-learning)
 - [💻 AI System](#-ai-system)
-- [✨ Star History](#-star-history)
-- [🤝 Friendship Links](#-friendship-links)
+- [🗂 Miscellaneous]
+  - [✨ Star History](#-star-history)
+  - [🤝 Friendship Links](#-friendship-links)
 
 ## 👋 Introduction
 - [AI for Everyone - Andrew Ng](https://www.deeplearning.ai/courses/ai-for-everyone/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
@@ -29,6 +30,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - This learning path offers a comprehensive journey from the basics of Large Language Models to deploying generative AI solutions on Google Cloud. 
 
 ## 💬 Large Language Models
+
 ### 💡 Prompt Engineering
 - [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/notebook-orange
 )
@@ -123,10 +125,10 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 - [Computer Science 598D - Systems and Machine Learning - Princeton University](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html) ![](https://img.shields.io/badge/Level-Hard-red)
   - Explore the synergy between systems and machine learning by dissecting recent research on efficient ML hardware/software and applying ML to system design, culminating in hands-on projects and deep discussions for graduate students.
 
-## ✨ Star History
+### ✨ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=luban-agi/Awesome-AIGC-Tutorials&type=Date)](https://star-history.com/#luban-agi/Awesome-AIGC-Tutorials&Date)
 
-## 🤝 Friendship Links
+### 🤝 Friendship Links
 - [WayToAGI](http://waytoagi.com/)
   - WaytoAGI.com is the most comprehensive Chinese resource hub for AIGC, guiding users on an optimized learning journey to understand and harness the power of AI.
 - [Awesome Tool Learning](https://github.com/luban-agi/Awesome-Tool-Learning)

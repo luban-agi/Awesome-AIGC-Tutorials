@@ -31,11 +31,13 @@
 - [LangChain: Chat with Your Data - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
 - [Prompt Engineering for ChatGPT - 范德堡大学](https://www.coursera.org/learn/prompt-engineering?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_prompt-engineering_vanderbilt_FTCOF_learn_country-GB-country-UK&campaignid=20462816306&adgroupid=157715342052&device=c&keyword=prompt%20engineering%20coursera&matchtype=b&network=g&devicemodel=&adposition=&creativeid=670151312123&hide_mobile_promo&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVg8RCaUF0lwFyVnMuP7T7bHoH0jST0XXhQ3S1vmDxtZc8O1WlJ8FXQaAtG-EALw_wcB) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
 - [Learn Prompting](https://learnprompting.org/) ![](https://img.shields.io/badge/Level-中等-yellow)
+- 
 ### 🔧 大语言模型实践
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
-- [🔥新课] [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- 
 ### 🔬 大语言模型理论
-- [🔄最近更新] [CS324 - Advances in Foundation Models - 斯坦福大学](https://stanford-cs324.github.io/winter2023/) ![](https://img.shields.io/badge/Level-简单-green)
+- [CS324 - Advances in Foundation Models - 斯坦福大学](https://stanford-cs324.github.io/winter2023/) ![](https://img.shields.io/badge/Level-简单-green)
   - 斯坦福大学关于大模型的新课，主要材料是一些notes，介绍了大语言模型的基础知识、能力范围、训练部署以及一些大模型相关的问题（数据安全、法律、危害等），总体来说比较简单，适合入门。2023年的版本对课纲进行了更新，增加了关于图像-文本和多模态的大模型内容。
 - [CS 601.471/671 NLP: Self-supervised Models - 约翰霍普金斯大学](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-中等-yellow)
   - JHU也是NLP大牛校，这门课难度适中，课程主页上各类资源还挺多的，建议大家看一看。 
@@ -61,11 +63,12 @@
 
 ## 🔊 AI音频
 - [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction) ![](https://img.shields.io/badge/Level-中等-yellow)
+- [CS224S: Spoken Language Processing - 斯坦福大学](http://web.stanford.edu/class/cs224s/) ![](https://img.shields.io/badge/Level-中等-yellow)
 
 ## 🌈 多模态
-- [Tutorial on MultiModal Machine Learning (ICML 2023) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
-- [11-777: MultiModal Machine Learning (Fall 2022) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
-- [11-877: Advanced Topics in MultiModal Machine Learning (Fall 2022) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/) ![](https://img.shields.io/badge/Level-困难-red)
+- [Tutorial on MultiModal Machine Learning (ICML 2023) - 卡耐基梅隆大学](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [11-777: MultiModal Machine Learning (Fall 2022) - 卡耐基梅隆大学](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [11-877: Advanced Topics in MultiModal Machine Learning (Fall 2022) - 卡耐基梅隆大学](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/) ![](https://img.shields.io/badge/Level-困难-red)
 
 ## 🧠 深度学习
 - [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
@@ -80,6 +83,8 @@
 - [CS 329S: Machine Learning Systems Design - 斯坦福大学](https://stanford-cs329s.github.io/) ![](https://img.shields.io/badge/Level-中等-yellow)
 - [15-849: Machine Learning Systems - 卡耐基梅隆大学](https://www.cs.cmu.edu/~zhihaoj2/15-849/) ![](https://img.shields.io/badge/Level-困难-red)
 - [Computer Science 598D - Systems and Machine Learning - 普林斯顿大学](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html) ![](https://img.shields.io/badge/Level-困难-red)
+- [Deep Learning Lecture Series 2020 - DeepMind x 伦敦大学学院](https://www.deepmind.com/learning-resources/deep-learning-lecture-series-2020) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [Reinforcement Learning Lecture Series 2021 - DeepMind x 伦敦大学学院](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021) ![](https://img.shields.io/badge/Level-困难-red) ![](https://img.shields.io/badge/视频-blue)
 
 ## 🤝 友情链接
 - [WayToAGI](http://waytoagi.com/)

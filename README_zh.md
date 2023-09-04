@@ -72,10 +72,14 @@
 
 ## 🧠 深度学习
 - [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
+- [Neural Networks - 3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
 - [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
 - [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
 - [Deep Learning Specialization - 吴恩达](https://www.deeplearning.ai/courses/deep-learning-specialization/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [6.S191: Introduction to Deep Learning - 麻省理工学院](http://introtodeeplearning.com/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
 - [CS25: Transformers United V2 - 斯坦福大学](https://web.stanford.edu/class/cs25/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [Deep Learning Lecture Series 2020 - DeepMind x 伦敦大学学院](https://www.deepmind.com/learning-resources/deep-learning-lecture-series-2020) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [Reinforcement Learning Lecture Series 2021 - DeepMind x 伦敦大学学院](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021) ![](https://img.shields.io/badge/Level-困难-red) ![](https://img.shields.io/badge/视频-blue)
 
 ## 💻 AI系统
 - [AI-Sys-Sp22 Machine Learning Systems - 加州大学伯克利分校](https://ucbrise.github.io/cs294-ai-sys-sp22/) ![](https://img.shields.io/badge/Level-中等-yellow)
@@ -83,8 +87,6 @@
 - [CS 329S: Machine Learning Systems Design - 斯坦福大学](https://stanford-cs329s.github.io/) ![](https://img.shields.io/badge/Level-中等-yellow)
 - [15-849: Machine Learning Systems - 卡耐基梅隆大学](https://www.cs.cmu.edu/~zhihaoj2/15-849/) ![](https://img.shields.io/badge/Level-困难-red)
 - [Computer Science 598D - Systems and Machine Learning - 普林斯顿大学](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html) ![](https://img.shields.io/badge/Level-困难-red)
-- [Deep Learning Lecture Series 2020 - DeepMind x 伦敦大学学院](https://www.deepmind.com/learning-resources/deep-learning-lecture-series-2020) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
-- [Reinforcement Learning Lecture Series 2021 - DeepMind x 伦敦大学学院](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021) ![](https://img.shields.io/badge/Level-困难-red) ![](https://img.shields.io/badge/视频-blue)
 
 ## 🤝 友情链接
 - [WayToAGI](http://waytoagi.com/)

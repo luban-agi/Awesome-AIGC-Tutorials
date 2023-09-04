@@ -59,7 +59,7 @@
   - 偏宏观，比较通俗易懂 
 - [Diffusion扩散模型 - 唐宇迪](https://www.bilibili.com/video/BV1Re4y1s7uV/?p=1&vd_source=a4218e1e16a294070cadf4eefa94fa32) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
   - 唐宇迪老师讲stable diffusion和dalle推理讲的比较清楚
-- - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ![](https://img.shields.io/badge/Level-中等-yellow)
+- [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ![](https://img.shields.io/badge/Level-中等-yellow)
 
 ## 🔊 AI音频
 - [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction) ![](https://img.shields.io/badge/Level-中等-yellow)

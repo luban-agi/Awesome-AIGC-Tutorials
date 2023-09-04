@@ -14,7 +14,10 @@
 - [🌈 多模态](#-多模态)
 - [🧠 深度学习](#-深度学习)
 - [💻 AI系统](#-ai系统)
-- [🤝友情链接](#-友情链接)
+- [🗂 其他](#-其他)
+  - [✨ 点赞历史](#-点赞历史)
+  - [🤝友情链接](#-友情链接)
+
 
 ## 👋 入门
 - [AI for Everyone - 吴恩达](https://www.deeplearning.ai/courses/ai-for-everyone/) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
@@ -89,7 +92,12 @@
 - [15-849: Machine Learning Systems - 卡耐基梅隆大学](https://www.cs.cmu.edu/~zhihaoj2/15-849/) ![](https://img.shields.io/badge/Level-困难-red)
 - [Computer Science 598D - Systems and Machine Learning - 普林斯顿大学](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html) ![](https://img.shields.io/badge/Level-困难-red)
 
-## 🤝 友情链接
+## 🗂 其他
+
+### ✨ 点赞历史
+[![Star History Chart](https://api.star-history.com/svg?repos=luban-agi/Awesome-AIGC-Tutorials&type=Date)](https://star-history.com/#luban-agi/Awesome-AIGC-Tutorials&Date)
+
+### 🤝 友情链接
 - [WayToAGI](http://waytoagi.com/)
   - WaytoAGI.com 是最全面的中文AIGC资源知识库，包括最新AI动态、提示词、学习指南等，长期保持活跃更新。
 - [Awesome Tool Learning](https://github.com/luban-agi/Awesome-Tool-Learning)

@@ -35,7 +35,7 @@
 ### 🔧 大语言模型实践
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
 - [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
-- 
+
 ### 🔬 大语言模型理论
 - [CS324 - Advances in Foundation Models - 斯坦福大学](https://stanford-cs324.github.io/winter2023/) ![](https://img.shields.io/badge/Level-简单-green)
   - 斯坦福大学关于大模型的新课，主要材料是一些notes，介绍了大语言模型的基础知识、能力范围、训练部署以及一些大模型相关的问题（数据安全、法律、危害等），总体来说比较简单，适合入门。2023年的版本对课纲进行了更新，增加了关于图像-文本和多模态的大模型内容。

@@ -11,7 +11,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
   - [🔧 LLMs in Practice](#-llms-in-practice)
   - [🔬 Theory of LLMs](#-theory-of-llms)
 - [🎨 AI Painting](#-ai-painting)
-  - [🖌️ Art Fundamentals and AI Painting Techniques](#-art-fundamentals-and-ai-painting-techniques)
+  - [Art Fundamentals and AI Painting Techniques](#art-fundamentals-and-ai-painting-techniques)
   - [🌊 Stable Diffusion Principles and Applications](#-stable-diffusion-principles-and-applications)
 - [🔊 AI Audio](#-ai-audio)
 - [🌈 Multimodal](#-multimodal)
@@ -72,7 +72,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 ## 🎨 AI Painting
 
-### 🖌️ Art Fundamentals and AI Painting Techniques
+### Art Fundamentals and AI Painting Techniques
 - [Lecture Series: An interesting topic every week on the fundamentals of art - Niji Academy](https://www.niji.academy/work/lecture) ![](https://img.shields.io/badge/Level-Easy-green)
   - Niji Academy blends art fundamentals with AI, elevating painting skills and speeding up art learning.
  

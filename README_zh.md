@@ -11,6 +11,7 @@
   - [🔬 大语言模型理论](#-大语言模型理论)
 - [🎨 AI绘画](#-ai绘画)
 - [🔊 AI音频](#-ai音频)
+- [🌈 多模态](#-多模态)
 - [🧠 深度学习](#-深度学习)
 - [💻 AI系统](#-ai系统)
 - [🤝友情链接](#-友情链接)
@@ -60,6 +61,11 @@
 
 ## 🔊 AI音频
 - [Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction) ![](https://img.shields.io/badge/Level-中等-yellow)
+
+## 🌈 多模态
+- [Tutorial on MultiModal Machine Learning (ICML 2023) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [11-777: MultiModal Machine Learning (Fall 2022) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [11-877: Advanced Topics in MultiModal Machine Learning (Fall 2022) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/) ![](https://img.shields.io/badge/Level-困难-red)
 
 ## 🧠 深度学习
 - [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)

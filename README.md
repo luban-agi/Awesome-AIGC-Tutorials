@@ -92,8 +92,13 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   - Delve deep into prompt engineering, LLM operations, user experience design for language interfaces, augmented language model techniques, foundational LLM insights, hands-on projects, and the future of LLMs, complemented by expert talks from industry leaders on training and agent design.
 - [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
-  ![](https://img.shields.io/badge/Video-blue) ![](https://img.shields.io/badge/Notebook-orange)
+  ![](https://img.shields.io/badge/Video-blue)
+  ![](https://img.shields.io/badge/Notebook-orange)
   - Learn the techniques of finetuning large language models (LLMs) with Sharon Zhou, gaining expertise in data preparation, training, and updating neural net weights for improved results tailored to your data.
+- [Learn the fundamentals of generative AI for real-world applications - aws x DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  ![](https://img.shields.io/badge/Video-blue)
+  - This course, in partnership with AWS, offers deep insights into generative AI and Large Language Models (LLMs). Participants will learn the mechanics, optimization, and real-world applications of LLMs from AWS AI experts. Suitable for professionals in AI and machine learning, with a Coursera certificate upon completion. Basic Python and machine learning knowledge recommended.
 
 ### 🔬 Theory of LLMs
 - [CS324 - Advances in Foundation Models - Stanford University](https://stanford-cs324.github.io/winter2023/)

@@ -158,35 +158,59 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   - This course explores Multimodal Machine Learning (MMML), covering technical challenges and recent achievements. It emphasizes critical thinking and future research trends, with weekly updates, discussion probes, and research highlights on the course website. 
 
 ## 🧠 Deep Learning
-- [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
+- [Neural Networks/Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Video-blue)
   - Discover the intricacies of Neural Networks in this highly popular YouTube playlist, seamlessly blending informative graphics with expert teachings, captivating countless students from basics to advanced image classification with Convolutional Neural Networks.
-- [Neural Networks - 3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks) ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Video-blue)
+- [Neural Networks - 3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Video-blue)
   - 3Blue1Brown unveils the magic of neural networks through vivid animations and clear explanations, diving deep into hand-written digit recognition, the nuances of gradient descent, and the intricate calculus behind backpropagation. 
-- [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+- [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  ![](https://img.shields.io/badge/Video-blue)
   - Andrej Karpathy's course guides students from the foundational backpropagation to advanced neural networks like GPT, emphasizing language models as a versatile gateway to mastering deep learning, with prerequisites in Python programming and basic math. 
-- [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+- [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  ![](https://img.shields.io/badge/Video-blue)
   - Practical Deep Learning for Coders 2022 is a free course offering hands-on experience in building, training, and deploying deep learning models across various domains using tools like PyTorch and fastai, suitable for those with coding knowledge and without the need for advanced math. 
-- [Deep Learning Specialization - Andrew Ng](https://www.deeplearning.ai/courses/deep-learning-specialization/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+- [Deep Learning Specialization - Andrew Ng](https://www.deeplearning.ai/courses/deep-learning-specialization/)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  ![](https://img.shields.io/badge/Video-blue)
   - Andrew Ng's Deep Learning Specialization is a top-rated, self-paced program on Coursera with over 1 million learners, offering clear modules and practical techniques in AI, supported by a vast community and breaking down the latest in machine learning into understandable content.
-- [6.S191: Introduction to Deep Learning - Massachusetts Institute of Technology](http://introtodeeplearning.com/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+- [6.S191: Introduction to Deep Learning - Massachusetts Institute of Technology](http://introtodeeplearning.com/)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  ![](https://img.shields.io/badge/Video-blue)
   - MIT's intensive bootcamp on deep learning fundamentals, covering applications from computer vision to biology, with hands-on TensorFlow practice and a culminating project competition. Basic calculus and linear algebra knowledge required; Python experience beneficial. 
-- [CS25: Transformers United V2 - Stanford University](https://web.stanford.edu/class/cs25/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+- [CS25: Transformers United V2 - Stanford University](https://web.stanford.edu/class/cs25/)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  ![](https://img.shields.io/badge/Video-blue)
   - Explore the transformative power of transformers in deep learning across diverse domains, from NLP to biology, in a seminar featuring expert lectures, breakthrough discussions, and insights from leading researchers, aiming to foster understanding and cross-collaborative innovation.
-- [Deep Learning Lecture Series 2020 - DeepMind x University College London](https://www.deepmind.com/learning-resources/deep-learning-lecture-series-2020) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+- [Deep Learning Lecture Series 2020 - DeepMind x University College London](https://www.deepmind.com/learning-resources/deep-learning-lecture-series-2020)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  ![](https://img.shields.io/badge/Video-blue)
   - DeepMind presents a 12-lecture series on Deep Learning, diving from foundational topics to advanced techniques, encompassing areas from object recognition to responsible AI innovation, all delivered by leading research experts.
-- [Reinforcement Learning Lecture Series 2021 - DeepMind x University College London](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021) ![](https://img.shields.io/badge/Level-Hard-red) ![](https://img.shields.io/badge/Video-blue)
+- [Reinforcement Learning Lecture Series 2021 - DeepMind x University College London](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021)
+  ![](https://img.shields.io/badge/Level-Hard-red)
+  ![](https://img.shields.io/badge/Video-blue)
   - DeepMind and UCL present a comprehensive 13-lecture series on modern reinforcement learning, from foundational concepts to advanced deep RL techniques, led by expert researchers Hado van Hasselt, Diana Borsa, and Matteo Hessel.
   
 ## 💻 AI System
-- [AI-Sys-Sp22 Machine Learning Systems - University of California, Berkeley](https://ucbrise.github.io/cs294-ai-sys-sp22/) ![](https://img.shields.io/badge/Level-Medium-yellow)
+- [AI-Sys-Sp22 Machine Learning Systems - University of California, Berkeley](https://ucbrise.github.io/cs294-ai-sys-sp22/)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
   - Delve into the symbiotic relationship between cutting-edge AI applications and the systems supporting them, exploring advancements in hardware, software, and AI-driven optimization techniques, through lectures, discussions, and collaborative hands-on projects. 
-- [Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter](https://dlsyscourse.org/) ![](https://img.shields.io/badge/Level-Medium-yellow) ![](https://img.shields.io/badge/Video-blue)
+- [Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter](https://dlsyscourse.org/)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  ![](https://img.shields.io/badge/Video-blue)
   - Explore the foundations of deep learning systems by constructing a complete library, understanding every layer from model design to efficient algorithms, utilizing Python and C/C++. 
-- [CS 329S: Machine Learning Systems Design - Stanford University](https://stanford-cs329s.github.io/) ![](https://img.shields.io/badge/Level-Medium-yellow)
+- [CS 329S: Machine Learning Systems Design - Stanford University](https://stanford-cs329s.github.io/)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
   - Master the intricacies of designing robust, scalable, and deployable machine learning systems, focusing on stakeholders, evolving requirements, and holistic system design, while addressing critical issues like privacy, fairness, and security. 
-- [15-849: Machine Learning Systems - Carnegie Mellon University](https://www.cs.cmu.edu/~zhihaoj2/15-849/) ![](https://img.shields.io/badge/Level-Hard-red)
+- [15-849: Machine Learning Systems - Carnegie Mellon University](https://www.cs.cmu.edu/~zhihaoj2/15-849/)
+  ![](https://img.shields.io/badge/Level-Hard-red)
   - Dive into the architecture of modern ML systems, unraveling the journey from high-level model design to low-level kernel execution on heterogeneous hardware, while uncovering the principles and challenges of next-gen ML applications and platforms. 
-- [Computer Science 598D - Systems and Machine Learning - Princeton University](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html) ![](https://img.shields.io/badge/Level-Hard-red)
+- [Computer Science 598D - Systems and Machine Learning - Princeton University](https://www.cs.princeton.edu/courses/archive/spring21/cos598D/general.html)
+  ![](https://img.shields.io/badge/Level-Hard-red)
   - Explore the synergy between systems and machine learning by dissecting recent research on efficient ML hardware/software and applying ML to system design, culminating in hands-on projects and deep discussions for graduate students.
 
 ## 🗂 Miscellaneous

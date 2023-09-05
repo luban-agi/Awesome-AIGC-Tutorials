@@ -30,36 +30,67 @@
 
 
 ## 👋 入门
-- [AI for Everyone - 吴恩达](https://www.deeplearning.ai/courses/ai-for-everyone/) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
-- [Practical AI for Teachers and Students - 沃顿商学院](https://www.youtube.com/playlist?list=PLwRdpYzPkkn302_rL5RrXvQE8j0jLP02j) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
-- [Artificial Intelligence for Beginners - 微软](https://microsoft.github.io/AI-For-Beginners/) ![](https://img.shields.io/badge/Level-中等-yellow)
-- [Generative AI learning path - 谷歌](https://www.cloudskillsboost.google/journeys/118) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [AI for Everyone - 吴恩达](https://www.deeplearning.ai/courses/ai-for-everyone/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/视频-blue)
+- [Practical AI for Teachers and Students - 沃顿商学院](https://www.youtube.com/playlist?list=PLwRdpYzPkkn302_rL5RrXvQE8j0jLP02j)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/视频-blue)
+- [Artificial Intelligence for Beginners - 微软](https://microsoft.github.io/AI-For-Beginners/)
+  ![](https://img.shields.io/badge/Level-中等-yellow)
+- [Generative AI learning path - 谷歌](https://www.cloudskillsboost.google/journeys/118)
+  ![](https://img.shields.io/badge/Level-中等-yellow)
+  ![](https://img.shields.io/badge/视频-blue)
 
 ## 💬 大语言模型
 
 ### 💡 提示工程
-- [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue) 
-- [Building Systems with the ChatGPT API - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
-- [LangChain for LLM Application Development - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/Video-blue)
-- [LangChain: Chat with Your Data - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
-- [Prompt Engineering for ChatGPT - 范德堡大学](https://www.coursera.org/learn/prompt-engineering?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_prompt-engineering_vanderbilt_FTCOF_learn_country-GB-country-UK&campaignid=20462816306&adgroupid=157715342052&device=c&keyword=prompt%20engineering%20coursera&matchtype=b&network=g&devicemodel=&adposition=&creativeid=670151312123&hide_mobile_promo&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVg8RCaUF0lwFyVnMuP7T7bHoH0jST0XXhQ3S1vmDxtZc8O1WlJ8FXQaAtG-EALw_wcB) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
-- [Learn Prompting](https://learnprompting.org/) ![](https://img.shields.io/badge/Level-中等-yellow)
-- [LangChain AI Handbook - James Briggs, Francisco Ingham](https://www.pinecone.io/learn/series/langchain/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/书籍-%2391672c)
+- [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/视频-blue) 
+- [Building Systems with the ChatGPT API - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/视频-blue)
+- [LangChain for LLM Application Development - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/Video-blue)
+- [LangChain: Chat with Your Data - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/视频-blue)
+- [Prompt Engineering for ChatGPT - 范德堡大学](https://www.coursera.org/learn/prompt-engineering?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_prompt-engineering_vanderbilt_FTCOF_learn_country-GB-country-UK&campaignid=20462816306&adgroupid=157715342052&device=c&keyword=prompt%20engineering%20coursera&matchtype=b&network=g&devicemodel=&adposition=&creativeid=670151312123&hide_mobile_promo&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVg8RCaUF0lwFyVnMuP7T7bHoH0jST0XXhQ3S1vmDxtZc8O1WlJ8FXQaAtG-EALw_wcB)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/视频-blue)
+- [Learn Prompting](https://learnprompting.org/)
+  ![](https://img.shields.io/badge/Level-中等-yellow)
+- [LangChain AI Handbook - James Briggs, Francisco Ingham](https://www.pinecone.io/learn/series/langchain/)
+  ![](https://img.shields.io/badge/Level-中等-yellow)
+  ![](https://img.shields.io/badge/书籍-%2391672c)
   
 ### 🔧 大语言模型实践
-- [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
-- [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
+  ![](https://img.shields.io/badge/Level-中等-yellow)
+  ![](https://img.shields.io/badge/视频-blue)
+- [Finetuning Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
+  ![](https://img.shields.io/badge/Level-中等-yellow)
+  ![](https://img.shields.io/badge/视频-blue)
 
 ### 🔬 大语言模型理论
-- [CS324 - Advances in Foundation Models - 斯坦福大学](https://stanford-cs324.github.io/winter2023/) ![](https://img.shields.io/badge/Level-简单-green)
+- [CS324 - Advances in Foundation Models - 斯坦福大学](https://stanford-cs324.github.io/winter2023/)
+  ![](https://img.shields.io/badge/Level-简单-green)
   - 斯坦福大学关于大模型的新课，主要材料是一些notes，介绍了大语言模型的基础知识、能力范围、训练部署以及一些大模型相关的问题（数据安全、法律、危害等），总体来说比较简单，适合入门。2023年的版本对课纲进行了更新，增加了关于图像-文本和多模态的大模型内容。
-- [CS 601.471/671 NLP: Self-supervised Models - 约翰霍普金斯大学](https://self-supervised.cs.jhu.edu/sp2023/index.html) ![](https://img.shields.io/badge/Level-中等-yellow)
+- [CS 601.471/671 NLP: Self-supervised Models - 约翰霍普金斯大学](https://self-supervised.cs.jhu.edu/sp2023/index.html)
+  ![](https://img.shields.io/badge/Level-中等-yellow)
   - JHU也是NLP大牛校，这门课难度适中，课程主页上各类资源还挺多的，建议大家看一看。 
-- [CS224N: Natural Language Processing with Deep Learning - 斯坦福大学](https://web.stanford.edu/class/cs224n/)  ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)
+- [CS224N: Natural Language Processing with Deep Learning - 斯坦福大学](https://web.stanford.edu/class/cs224n/)
+  ![](https://img.shields.io/badge/Level-中等-yellow)
+  ![](https://img.shields.io/badge/视频-blue)
   - 这门课Christopher Manning在斯坦福开了很多年，很经典的课程。前面是NLP的基础知识，后面几节课会涉及到大语言模型。 
-- [Speech and Language Processing - Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/书籍-%2391672c)
+- [Speech and Language Processing - Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
+  ![](https://img.shields.io/badge/Level-中等-yellow)
+  ![](https://img.shields.io/badge/书籍-%2391672c)
   - 最经典的NLP教材，本来计划在大概三四年前就完稿的，但是由于近几年NLP领域发展实在太快，作者干脆就不设DDL了，一直在持续更新中。 
-- [COS 597G (Fall 2022): Understanding Large Language Models - 普林斯顿大学](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/) ![](https://img.shields.io/badge/Level-困难-red)
+- [COS 597G (Fall 2022): Understanding Large Language Models - 普林斯顿大学](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+  ![](https://img.shields.io/badge/Level-困难-red)
   - Danqi Chen的课，课程难度较高，主要材料是PPT和相关的论文，适合深入LLM某个方向的同学。 
 
 ## 🎨 AI绘画
@@ -112,4 +143,6 @@
   - WaytoAGI.com 是最全面的中文AIGC资源知识库，包括最新AI动态、提示词、学习指南等，长期保持活跃更新。
 - [Awesome Tool Learning](https://github.com/luban-agi/Awesome-Tool-Learning)
   - Awesome Tool Learning 提供丰富的关于工具学习的资源，包括论文、框架和应用程序。
+- [Awesome Domain LLM](https://github.com/luban-agi/Awesome-Domain-LLM)
+  - 这个GitHub仓库是一个汇集和整理了自ChatGPT等大语言模型出现后，各种垂直领域开源模型、数据集和评测基准的列表，同时鼓励大家为其贡献未收录的资源。
 

@@ -20,6 +20,8 @@
   - [🔧 大语言模型实践](#-大语言模型实践)
   - [🔬 大语言模型理论](#-大语言模型理论)
 - [🎨 AI绘画](#-ai绘画)
+  - [🧑‍🎨 艺术基础与AI绘画技巧](#-艺术基础与ai绘画技巧)
+  - [🌊 Stable Diffusion原理与应用](#-stable-diffusion原理与应用) 
 - [🔊 AI音频](#-ai音频)
 - [🌈 多模态](#-多模态)
 - [🧠 深度学习](#-深度学习)
@@ -94,9 +96,13 @@
   - Danqi Chen的课，课程难度较高，主要材料是PPT和相关的论文，适合深入LLM某个方向的同学。 
 
 ## 🎨 AI绘画
+
+### 🧑‍🎨 艺术基础与AI绘画技巧
 - [系列讲座:每周一个关于艺术基础的有趣话题 - Niji Academy](https://www.niji.academy/work/lecture) [[中文版]](https://mp.weixin.qq.com/s/CxEv5NQF_wzAtqXnuNbKog) ![](https://img.shields.io/badge/Level-简单-green)
 - [AIGCTalk-Midjourney学习手册](https://ciweicui.feishu.cn/docx/DPbidgdBeoNw55xKjO6c7ao3nbc) ![](https://img.shields.io/badge/Level-简单-green)
 - [【Midjourney】保姆级AI绘画创作系列教学课程 - 莱森](https://space.bilibili.com/630876766/channel/collectiondetail?sid=1045607) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
+
+### 🌊 Stable Diffusion原理与应用
 - [【AI绘画】Stable Diffusion 系列教程](https://space.bilibili.com/12566101/channel/seriesdetail?sid=2706990) ![](https://img.shields.io/badge/Level-简单-green) ![](https://img.shields.io/badge/视频-blue)
   - 秋葉aaaki大神喂饭级别Stable Diffusion 系列教程
 - [How Diffusion Models Work - DeepLearning.AI](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) ![](https://img.shields.io/badge/Level-中等-yellow) ![](https://img.shields.io/badge/视频-blue)

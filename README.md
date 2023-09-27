@@ -10,6 +10,11 @@ English | [中文版](README_zh.md)
 
 Awesome AIGC Tutorials houses a curated collection of tutorials and resources spanning across Large Language Models, AI Painting, and related fields. Discover in-depth insights and knowledge catered for both beginners and advanced AI enthusiasts.
 
+## 🔔 Recent Updates
+
+- [2023-09-28] - 💬 Added new tutorial: [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940?schedule) in Large Language Models.
+
+
 ## 🌱 How to Contribute
 
 We warmly welcome contributions from everyone, whether you've found a typo, a bug, have a suggestion, or want to share a resource related to AIGC. For detailed guidelines on how to contribute, please see our [CONTRIBUTING.md](CONTRIBUTING.md) file.

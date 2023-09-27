@@ -95,6 +95,10 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   ![](https://img.shields.io/badge/Video-blue)
   ![](https://img.shields.io/badge/Notebook-orange)
   - Learn the techniques of finetuning large language models (LLMs) with Sharon Zhou, gaining expertise in data preparation, training, and updating neural net weights for improved results tailored to your data.
+- [TinyML and Efficient Deep Learning Computing - Massachusetts Institute of Technology](https://hanlab.mit.edu/courses/2023-fall-65940?schedule)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  ![](https://img.shields.io/badge/Video-blue)
+  - This course explores efficient AI computing techniques for deep learning on constrained devices, covering model compression, pruning, quantization, architecture search, distributed training, and quantum machine learning, with hands-on deployment of large models like LLaMA 2 on laptops.
 - [Learn the fundamentals of generative AI for real-world applications - AWS x DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   ![](https://img.shields.io/badge/Video-blue)

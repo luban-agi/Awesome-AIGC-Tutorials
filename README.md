@@ -12,6 +12,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 ## 🔔 Recent Updates
 
+- [2023-10-14] - 💬 Added new tutorial: [11-667: Large Language Models Methods and Applications](https://cmu-llms.org/) in Large Language Models.
 - [2023-09-28] - 💬 Added new tutorial: [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940?schedule) in Large Language Models.
 
 
@@ -116,6 +117,9 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 - [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2023/index.html)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   - This course offers an in-depth exploration of self-supervised learning techniques for NLP, training students to design and implement neural network models using PyTorch, with a focus on various language model architectures.
+- [11-667: Large Language Models Methods and Applications - Carnegie Mellon University](https://cmu-llms.org/)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  - This graduate course offers a comprehensive overview of large language models (LLMs), covering basics, emergent capabilities, applications, scaling techniques, deployment concerns, and future challenges, equipping students for research and applications in the AI era.
 - [CS224N: Natural Language Processing with Deep Learning - Stanford University](https://web.stanford.edu/class/cs224n/)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   ![](https://img.shields.io/badge/Video-blue)

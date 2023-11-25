@@ -12,7 +12,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 ## 🔔 Recent Updates
 
-- [2023-11-26] - 💬 Added new seminar: [CS25: Transformers United V3 - Stanford University](https://web.stanford.edu/class/cs25/index.html) in Large Language Models.
+- [2023-11-26] - 💬 Added new seminar: [CS25: Transformers United V3](https://web.stanford.edu/class/cs25/index.html) in Large Language Models.
 - [2023-10-14] - 💬 Added new tutorial: [11-667: Large Language Models Methods and Applications](https://cmu-llms.org/) in Large Language Models.
 - [2023-09-28] - 💬 Added new tutorial: [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940?schedule) in Large Language Models.
 

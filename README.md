@@ -12,6 +12,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 ## 🔔 Recent Updates
 
+- [2023-11-26] - 💬 Added new seminar: [CS25: Transformers United V3 - Stanford University](https://web.stanford.edu/class/cs25/index.html) in Large Language Models.
 - [2023-10-14] - 💬 Added new tutorial: [11-667: Large Language Models Methods and Applications](https://cmu-llms.org/) in Large Language Models.
 - [2023-09-28] - 💬 Added new tutorial: [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940?schedule) in Large Language Models.
 
@@ -101,10 +102,10 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   ![](https://img.shields.io/badge/Video-blue)
   ![](https://img.shields.io/badge/Notebook-orange)
   - Learn the techniques of finetuning large language models (LLMs) with Sharon Zhou, gaining expertise in data preparation, training, and updating neural net weights for improved results tailored to your data.
-- [TinyML and Efficient Deep Learning Computing - Massachusetts Institute of Technology](https://hanlab.mit.edu/courses/2023-fall-65940?schedule)
+- [CS25: Transformers United V3 - Stanford University](https://web.stanford.edu/class/cs25/index.html)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   ![](https://img.shields.io/badge/Video-blue)
-  - This course explores efficient AI computing techniques for deep learning on constrained devices, covering model compression, pruning, quantization, architecture search, distributed training, and quantum machine learning, with hands-on deployment of large models like LLaMA 2 on laptops.
+  - This course delves into the transformative role of Transformers in deep learning, particularly their impact on the advancement of language models like ChatGPT and GPT-4.
 - [Learn the fundamentals of generative AI for real-world applications - AWS x DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   ![](https://img.shields.io/badge/Video-blue)
@@ -124,6 +125,10 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   ![](https://img.shields.io/badge/Video-blue)
   - This course provides a comprehensive insight into Deep Learning for NLP using PyTorch, emphasizing end-to-end neural models, eliminating the need for task-specific feature engineering, and equipping students with the skills to craft their own neural network solutions.
+- [TinyML and Efficient Deep Learning Computing - Massachusetts Institute of Technology](https://hanlab.mit.edu/courses/2023-fall-65940?schedule)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  ![](https://img.shields.io/badge/Video-blue)
+  - This course explores efficient AI computing techniques for deep learning on constrained devices, covering model compression, pruning, quantization, architecture search, distributed training, and quantum machine learning, with hands-on deployment of large models like LLaMA 2 on laptops.
 - [Speech and Language Processing - Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   ![](https://img.shields.io/badge/Book-%2391672c)

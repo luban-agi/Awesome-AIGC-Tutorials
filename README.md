@@ -244,5 +244,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 ### 🤝 Friendship Links
 - [WayToAGI](http://waytoagi.com/)
   - WaytoAGI.com is the most comprehensive Chinese resource hub for AIGC, guiding users on an optimized learning journey to understand and harness the power of AI.
-- [Awesome Tool Learning](https://github.com/luban-agi/Awesome-Tool-Learning)
-  - Awesome Tool Learning is a GitHub repository that offers a wealth of resources on tool learning, including papers, frameworks, and applications.
+- [Codefuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
+  - Codefuse-ChatBot is an open-source AI smart assistant designed to support the software development lifecycle with conversational access to tools, knowledge, and platform integration.
+- [Codefuse DevOps Eval](https://github.com/codefuse-ai/codefuse-devops-eval)
+  - DevOps-Eval is a GitHub repository offering a specialized suite for evaluating and improving foundation models in the DevOps sector, including a rich set of AIOps exercises.

@@ -13,7 +13,7 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 ## 🔔 Recent Updates
 
 - [2024-02-14] - 💬 Added new course: [CS11-711 Advanced Natural Language Processing](https://phontron.com/class/anlp2024/) in Large Language Models.
-- [2024-02-14] - 💬 Added new seminar: [AI-Systems (LLM Edition) 294-162](https://learning-systems.notion.site/learning-systems/AI-Systems-LLM-Edition-294-162-Fall-2023-661887583bd340fa851e6a8da8e29abb) in Large Language Models.
+- [2024-02-14] - 💬 Added new seminar: [AI-Systems (LLM Edition) 294-162](https://learning-systems.notion.site/learning-systems/AI-Systems-LLM-Edition-294-162-Fall-2023-661887583bd340fa851e6a8da8e29abb) in AI System.
 - [2023-11-26] - 💬 Added new seminar: [CS25: Transformers United V3](https://web.stanford.edu/class/cs25/index.html) in Large Language Models.
 
 ## 🌱 How to Contribute

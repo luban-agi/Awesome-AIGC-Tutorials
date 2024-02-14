@@ -12,10 +12,9 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 ## 🔔 Recent Updates
 
+- [2024-02-14] - 💬 Added new course: [CS11-711 Advanced Natural Language Processing](https://phontron.com/class/anlp2024/) in Large Language Models.
+- [2024-02-14] - 💬 Added new seminar: [AI-Systems (LLM Edition) 294-162](https://learning-systems.notion.site/learning-systems/AI-Systems-LLM-Edition-294-162-Fall-2023-661887583bd340fa851e6a8da8e29abb) in Large Language Models.
 - [2023-11-26] - 💬 Added new seminar: [CS25: Transformers United V3](https://web.stanford.edu/class/cs25/index.html) in Large Language Models.
-- [2023-10-14] - 💬 Added new tutorial: [11-667: Large Language Models Methods and Applications](https://cmu-llms.org/) in Large Language Models.
-- [2023-09-28] - 💬 Added new tutorial: [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940?schedule) in Large Language Models.
-
 
 ## 🌱 How to Contribute
 
@@ -115,6 +114,9 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 - [CS324 - Advances in Foundation Models - Stanford University](https://stanford-cs324.github.io/winter2023/)
   ![](https://img.shields.io/badge/Level-Easy-green)
   - CS 324 delves into foundation models like GPT-3 and DALL-E, covering their principles, systems, ethics, and application, and culminates in a hands-on research project or application design.
+- [CS11-711 Advanced Natural Language Processing - Carnegie Mellon University](https://phontron.com/class/anlp2024/)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  - CMU's Advanced NLP course explores modern neural methods for understanding and innovating in natural language processing.
 - [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2023/index.html)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   - This course offers an in-depth exploration of self-supervised learning techniques for NLP, training students to design and implement neural network models using PyTorch, with a focus on various language model architectures.
@@ -221,14 +223,17 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 ## 💻 AI System
 - [AI-Sys-Sp22 Machine Learning Systems - University of California, Berkeley](https://ucbrise.github.io/cs294-ai-sys-sp22/)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
-  - Delve into the symbiotic relationship between cutting-edge AI applications and the systems supporting them, exploring advancements in hardware, software, and AI-driven optimization techniques, through lectures, discussions, and collaborative hands-on projects. 
+  - Delve into the symbiotic relationship between cutting-edge AI applications and the systems supporting them, exploring advancements in hardware, software, and AI-driven optimization techniques, through lectures, discussions, and collaborative hands-on projects.
 - [Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter](https://dlsyscourse.org/)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   ![](https://img.shields.io/badge/Video-blue)
   - Explore the foundations of deep learning systems by constructing a complete library, understanding every layer from model design to efficient algorithms, utilizing Python and C/C++. 
 - [CS 329S: Machine Learning Systems Design - Stanford University](https://stanford-cs329s.github.io/)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
-  - Master the intricacies of designing robust, scalable, and deployable machine learning systems, focusing on stakeholders, evolving requirements, and holistic system design, while addressing critical issues like privacy, fairness, and security. 
+  - Master the intricacies of designing robust, scalable, and deployable machine learning systems, focusing on stakeholders, evolving requirements, and holistic system design, while addressing critical issues like privacy, fairness, and security.
+- [AI-Systems (LLM Edition) 294-162 - University of California, Berkeley](https://learning-systems.notion.site/learning-systems/AI-Systems-LLM-Edition-294-162-Fall-2023-661887583bd340fa851e6a8da8e29abb)
+  ![](https://img.shields.io/badge/Level-Hard-red)
+  - This course delves into the nexus of hardware/software advancements and generative AI, emphasizing how these innovations propel the scaling and capabilities of AI models.
 - [15-849: Machine Learning Systems - Carnegie Mellon University](https://www.cs.cmu.edu/~zhihaoj2/15-849/)
   ![](https://img.shields.io/badge/Level-Hard-red)
   - Dive into the architecture of modern ML systems, unraveling the journey from high-level model design to low-level kernel execution on heterogeneous hardware, while uncovering the principles and challenges of next-gen ML applications and platforms. 

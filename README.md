@@ -12,9 +12,9 @@ Awesome AIGC Tutorials houses a curated collection of tutorials and resources sp
 
 ## 🔔 Recent Updates
 
+- [2024-02-18] - 🌈 Added new course: [CSCI-GA.3033-102 Special Topic - Learning with Large Language and Vision Models](https://www.sainingxie.com/llvm-fall23/) in Multimodal.
 - [2024-02-14] - 💬 Added new course: [CS11-711 Advanced Natural Language Processing](https://phontron.com/class/anlp2024/) in Large Language Models.
 - [2024-02-14] - 💬 Added new seminar: [AI-Systems (LLM Edition) 294-162](https://learning-systems.notion.site/learning-systems/AI-Systems-LLM-Edition-294-162-Fall-2023-661887583bd340fa851e6a8da8e29abb) in AI System.
-- [2023-11-26] - 💬 Added new seminar: [CS25: Transformers United V3](https://web.stanford.edu/class/cs25/index.html) in Large Language Models.
 
 ## 🌱 How to Contribute
 
@@ -170,6 +170,9 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   - An immersive course on spoken language technology, covering dialog systems, deep learning in speech recognition and synthesis, with hands-on projects using modern tools like PyTorch, Alexa Skills Kit, and SpeechBrain, culminating in student-driven research or system design projects. 
  
 ## 🌈 Multimodal
+- [CSCI-GA.3033-102 Special Topic - Learning with Large Language and Vision Models](https://www.sainingxie.com/llvm-fall23/)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  - Graduate course on the impact of large language and vision models, covering multimodal and generative AI, and preparing students for AI research.
 - [Tutorial on MultiModal Machine Learning (ICML 2023) - Carnegie Mellon University](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   ![](https://img.shields.io/badge/Video-blue)

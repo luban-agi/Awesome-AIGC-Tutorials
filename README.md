@@ -109,6 +109,11 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   ![](https://img.shields.io/badge/Video-blue)
   - This course, in partnership with AWS, offers deep insights into generative AI and Large Language Models (LLMs). Participants will learn the mechanics, optimization, and real-world applications of LLMs from AWS AI experts. Suitable for professionals in AI and machine learning, with a Coursera certificate upon completion. Basic Python and machine learning knowledge recommended.
+- [DataCamp's Become a Generative AI Developer series](https://www.datacamp.com/ai-code-alongs)
+  ![](https://img.shields.io/badge/Level-Medium-yellow)
+  ![](https://img.shields.io/badge/Video-blue)
+  ![](https://img.shields.io/badge/Notebook-orange)
+  - 9 code-alongs on building chatbots using LangChain and the OpenAI and Pinecone APIs, and working with the Hugging Face ecosystem. Free, for a limited time only.
 
 ### 🔬 Theory of LLMs
 - [CS324 - Advances in Foundation Models - Stanford University](https://stanford-cs324.github.io/winter2023/)

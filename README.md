@@ -89,8 +89,12 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 - [LangChain AI Handbook - James Briggs and Francisco Ingham](https://www.pinecone.io/learn/series/langchain/)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   ![](https://img.shields.io/badge/Book-%2391672c)
-  - Explore the transformative world of LangChain, mastering core components, crafting effective prompts, and harnessing advanced AI agents, conversational memories, and custom tools for cutting-edge applications. 
-
+  - Explore the transformative world of LangChain, mastering core components, crafting effective prompts, and harnessing advanced AI agents, conversational memories, and custom tools for cutting-edge applications.
+- [YiVal](https://github.com/YiVal/YiVal)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Video-blue)
+  ![](https://img.shields.io/badge/Notebook-orange)
+  - Evaluate and Enhance-YiVal is a versatile platform and framework that streamlines the evaluation and enhancement of your Generative AI applications.
 ### 🔧 LLMs in Practice
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
   ![](https://img.shields.io/badge/Level-Medium-yellow)

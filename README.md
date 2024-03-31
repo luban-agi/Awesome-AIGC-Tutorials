@@ -117,7 +117,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 - [CS11-711 Advanced Natural Language Processing - Carnegie Mellon University](https://phontron.com/class/anlp2024/)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   - CMU's Advanced NLP course explores modern neural methods for understanding and innovating in natural language processing.
-- [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2023/index.html)
+- [CS 601.471/671 NLP: Self-supervised Models - Johns Hopkins University](https://self-supervised.cs.jhu.edu/sp2024/)
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   - This course offers an in-depth exploration of self-supervised learning techniques for NLP, training students to design and implement neural network models using PyTorch, with a focus on various language model architectures.
 - [11-667: Large Language Models Methods and Applications - Carnegie Mellon University](https://cmu-llms.org/)

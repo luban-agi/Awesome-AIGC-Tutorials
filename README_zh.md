@@ -67,7 +67,10 @@
 - [LangChain AI Handbook - James Briggs, Francisco Ingham](https://www.pinecone.io/learn/series/langchain/)
   ![](https://img.shields.io/badge/Level-中等-yellow)
   ![](https://img.shields.io/badge/书籍-%2391672c)
-  
+- [God Tier Prompts](https://www.godtierprompts.com/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  - 一个由社区驱动的排行榜, 让最好的提示脱颖而出.
+
 ### 🔧 大语言模型实践
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
   ![](https://img.shields.io/badge/Level-中等-yellow)

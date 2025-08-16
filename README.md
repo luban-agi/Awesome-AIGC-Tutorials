@@ -90,6 +90,9 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   ![](https://img.shields.io/badge/Book-%2391672c)
   - Explore the transformative world of LangChain, mastering core components, crafting effective prompts, and harnessing advanced AI agents, conversational memories, and custom tools for cutting-edge applications. 
+- [God Tier Prompts](https://www.godtierprompts.com/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  - A community-driven leaderboard where the best prompts rise to the top.
 
 ### 🔧 LLMs in Practice
 - [LLM Bootcamp - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)

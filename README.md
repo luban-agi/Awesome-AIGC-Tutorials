@@ -142,6 +142,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 ## 🎨 AI Painting
 
 ### 🧑‍🎨 Art Fundamentals and AI Painting Techniques
+- [NanoBanana2](https://nanobanana2.com) - Free AI image generator with trend-aware templates and multiple AI models. Supports text-to-image, editing, background removal, and upscaling.
 - [Lecture Series: An interesting topic every week on the fundamentals of art - Niji Academy](https://www.niji.academy/work/lecture)
   ![](https://img.shields.io/badge/Level-Easy-green)
   - Niji Academy blends art fundamentals with AI, elevating painting skills and speeding up art learning.

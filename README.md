@@ -87,6 +87,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   - Dive into a beginner-friendly guide on Generative AI and Prompt Engineering, offering insights from industry giants, and explore how these tools revolutionize content creation and the future of work.
 - [LangChain AI Handbook - James Briggs and Francisco Ingham](https://www.pinecone.io/learn/series/langchain/)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - Production-tested tutorial: 49 AI agent system prompts for multi-agent orchestration with Claude Code, including task registry, quality gates, and deployment patterns.
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   ![](https://img.shields.io/badge/Book-%2391672c)
   - Explore the transformative world of LangChain, mastering core components, crafting effective prompts, and harnessing advanced AI agents, conversational memories, and custom tools for cutting-edge applications. 

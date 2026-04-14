@@ -157,6 +157,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   ![](https://img.shields.io/badge/Notebook-orange)
   - The Hugging Face course offers an in-depth look into diffusion models, guiding participants through media generation, hands-on training, and customization using the Diffusers library, with a foundational understanding of Python and Deep Learning essential for the best experience.
 - [Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion - fast.ai](https://course.fast.ai/Lessons/part2.html)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   ![](https://img.shields.io/badge/Video-blue)
   - This course offers an in-depth exploration of Stable Diffusion algorithms, covering advanced deep learning techniques and hands-on projects using PyTorch, empowering students with expertise in cutting-edge diffusion models. 

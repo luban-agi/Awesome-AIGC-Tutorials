@@ -256,3 +256,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   - Codefuse-ChatBot is an open-source AI smart assistant designed to support the software development lifecycle with conversational access to tools, knowledge, and platform integration.
 - [Codefuse DevOps Eval](https://github.com/codefuse-ai/codefuse-devops-eval)
   - DevOps-Eval is a GitHub repository offering a specialized suite for evaluating and improving foundation models in the DevOps sector, including a rich set of AIOps exercises.
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)
+  - Agent Shadow Brain is a zero-config, self-evolving intelligence layer for AI coding agents, providing infinite cross-session memory, hallucination prevention, and multi-agent consensus to make every AI tool write better code.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)
+  - Omni Skills Forge is the world's largest AI agent skill library with 50,000+ expert-level skill files that work instantly with Claude Code, Cursor, Cline, and other AI coding tools.

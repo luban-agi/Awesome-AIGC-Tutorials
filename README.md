@@ -256,3 +256,5 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   - Codefuse-ChatBot is an open-source AI smart assistant designed to support the software development lifecycle with conversational access to tools, knowledge, and platform integration.
 - [Codefuse DevOps Eval](https://github.com/codefuse-ai/codefuse-devops-eval)
   - DevOps-Eval is a GitHub repository offering a specialized suite for evaluating and improving foundation models in the DevOps sector, including a rich set of AIOps exercises.
+- [AI Models Catalog](https://github.com/i-need-token/ai-models)
+  - Structured YAML catalog of 4,587+ AI models across 95 providers with pricing, context windows, modalities, and capabilities. First-party data only.

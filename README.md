@@ -84,6 +84,8 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   ![](https://img.shields.io/badge/Level-Easy-green) 
   - This guide introduces Prompt Engineering, a discipline that optimizes interactions with Large Language Models, offering extensive resources, research, and tools.
 - [Learn Prompting](https://learnprompting.org/)
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
   ![](https://img.shields.io/badge/Level-Medium-yellow)
   - Dive into a beginner-friendly guide on Generative AI and Prompt Engineering, offering insights from industry giants, and explore how these tools revolutionize content creation and the future of work.
 - [LangChain AI Handbook - James Briggs and Francisco Ingham](https://www.pinecone.io/learn/series/langchain/)

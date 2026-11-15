@@ -250,6 +250,8 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
 [![Star History Chart](https://api.star-history.com/svg?repos=luban-agi/Awesome-AIGC-Tutorials&type=Date)](https://star-history.com/#luban-agi/Awesome-AIGC-Tutorials&Date)
 
 ### 🤝 Friendship Links
+- [No Stairs Please](https://nostairsplease.com/)
+  - No Stairs Please maps small live-music venues across all 50 US states and exposes a remote [MCP server](https://nostairsplease.com/mcp) for AI agents.
 - [WayToAGI](http://waytoagi.com/)
   - WaytoAGI.com is the most comprehensive Chinese resource hub for AIGC, guiding users on an optimized learning journey to understand and harness the power of AI.
 - [Codefuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
